@@ -1,0 +1,3701 @@
+{
+    "search_metadata": {
+        "id": "670b167621e77b2ad711bc11",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/3a70cd845702c297/670b167621e77b2ad711bc11.json",
+        "created_at": "2024-10-13 00:38:14 UTC",
+        "processed_at": "2024-10-13 00:38:14 UTC",
+        "google_hotels_url": "https://www.google.com/_/TravelFrontendUi/data/batchexecute?rpcids=AtySUc&source-path=/travel/search&hl=en&gl=us&rt=c&soc-app=162&soc-platform=1&soc-device=1",
+        "raw_html_file": "https://serpapi.com/searches/3a70cd845702c297/670b167621e77b2ad711bc11.html",
+        "prettify_html_file": "https://serpapi.com/searches/3a70cd845702c297/670b167621e77b2ad711bc11.prettify",
+        "total_time_taken": 1.8
+    },
+    "search_parameters": {
+        "engine": "google_hotels",
+        "q": "Coffee",
+        "gl": "us",
+        "hl": "en",
+        "currency": "USD",
+        "check_in_date": "2024-10-31",
+        "check_out_date": "2024-11-05",
+        "adults": 2,
+        "children": 0
+    },
+    "search_information": {
+        "total_results": 1274
+    },
+    "brands": [
+        {
+            "id": 18,
+            "name": "Best Western International",
+            "children": [
+                {
+                    "id": 155,
+                    "name": "Best Western"
+                },
+                {
+                    "id": 104,
+                    "name": "Best Western Plus"
+                },
+                {
+                    "id": 105,
+                    "name": "Best Western Premier"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "Choice Hotels",
+            "children": [
+                {
+                    "id": 29,
+                    "name": "Clarion"
+                },
+                {
+                    "id": 152,
+                    "name": "Comfort Suites"
+                },
+                {
+                    "id": 48,
+                    "name": "Econo Lodge"
+                },
+                {
+                    "id": 82,
+                    "name": "Quality Inn"
+                },
+                {
+                    "id": 293,
+                    "name": "Woodspring Suites"
+                }
+            ]
+        },
+        {
+            "id": 156,
+            "name": "Extended Stay America"
+        },
+        {
+            "id": 28,
+            "name": "Hilton Honors",
+            "children": [
+                {
+                    "id": 81,
+                    "name": "DoubleTree by Hilton"
+                },
+                {
+                    "id": 88,
+                    "name": "Embassy Suites by Hilton"
+                },
+                {
+                    "id": 115,
+                    "name": "Hampton by Hilton"
+                },
+                {
+                    "id": 71,
+                    "name": "Hilton Garden Inn"
+                },
+                {
+                    "id": 54,
+                    "name": "Hilton Hotels & Resorts"
+                },
+                {
+                    "id": 36,
+                    "name": "Home2 Suites"
+                },
+                {
+                    "id": 77,
+                    "name": "Homewood Suites by Hilton"
+                },
+                {
+                    "id": 286,
+                    "name": "Tru By Hilton"
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "name": "Hyatt",
+            "children": [
+                {
+                    "id": 121,
+                    "name": "Hyatt Place"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "IHG Hotels & Resorts",
+            "children": [
+                {
+                    "id": 52,
+                    "name": "Candlewood Suites"
+                },
+                {
+                    "id": 64,
+                    "name": "Holiday Inn"
+                },
+                {
+                    "id": 56,
+                    "name": "Holiday Inn Express"
+                },
+                {
+                    "id": 87,
+                    "name": "Hotel Indigo"
+                },
+                {
+                    "id": 43,
+                    "name": "Staybridge Suites"
+                }
+            ]
+        },
+        {
+            "id": 46,
+            "name": "Marriott Bonvoy",
+            "children": [
+                {
+                    "id": 128,
+                    "name": "AC Hotels"
+                },
+                {
+                    "id": 60,
+                    "name": "Aloft Hotels"
+                },
+                {
+                    "id": 86,
+                    "name": "Courtyard by Marriott"
+                },
+                {
+                    "id": 58,
+                    "name": "Fairfield Inn by Marriott"
+                },
+                {
+                    "id": 75,
+                    "name": "Residence Inn by Marriott"
+                },
+                {
+                    "id": 12,
+                    "name": "Sheraton Hotels and Resorts"
+                },
+                {
+                    "id": 83,
+                    "name": "SpringHill Suites"
+                },
+                {
+                    "id": 40,
+                    "name": "TownePlace Suites"
+                }
+            ]
+        },
+        {
+            "id": 44,
+            "name": "Motel 6"
+        },
+        {
+            "id": 353,
+            "name": "OYO",
+            "children": [
+                {
+                    "id": 99,
+                    "name": "OYO Rooms"
+                }
+            ]
+        },
+        {
+            "id": 80,
+            "name": "Radisson Hotel Group",
+            "children": [
+                {
+                    "id": 25,
+                    "name": "Country Inns & Suites"
+                },
+                {
+                    "id": 76,
+                    "name": "Radisson"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Studio 6"
+        },
+        {
+            "id": 53,
+            "name": "Wyndham Hotels & Resorts",
+            "children": [
+                {
+                    "id": 19,
+                    "name": "Days Inn"
+                },
+                {
+                    "id": 11,
+                    "name": "La Quinta Inns & Suites"
+                },
+                {
+                    "id": 93,
+                    "name": "Super 8 Motels"
+                }
+            ]
+        }
+    ],
+    "properties": [
+        {
+            "type": "vacation rental",
+            "name": "Private new garden apartment w Hot Tub",
+            "link": "https://platform.hostfully.com/vacation-rental-property-v2/38408/private-new-garden-apartment-w-hot-tub",
+            "gps_coordinates": {
+                "latitude": 45.59307098388672,
+                "longitude": -122.40809631347656
+            },
+            "check_in_time": "4:00\u202fPM",
+            "check_out_time": "10:00\u202fAM",
+            "rate_per_night": {
+                "lowest": "$133",
+                "extracted_lowest": 133,
+                "before_taxes_fees": "$74",
+                "extracted_before_taxes_fees": 74
+            },
+            "total_rate": {
+                "lowest": "$664",
+                "extracted_lowest": 664,
+                "before_taxes_fees": "$370",
+                "extracted_before_taxes_fees": 370
+            },
+            "prices": [
+                {
+                    "source": "Utmost Property Management",
+                    "logo": "https://www.gstatic.com/travel-hotels/branding/icon_default.png",
+                    "official": true,
+                    "num_guests": 2,
+                    "rate_per_night": {
+                        "lowest": "$114",
+                        "extracted_lowest": 114,
+                        "before_taxes_fees": "$70",
+                        "extracted_before_taxes_fees": 70
+                    }
+                }
+            ],
+            "nearby_places": [
+                {
+                    "name": "Portland International Airport",
+                    "transportations": [
+                        {
+                            "type": "Taxi",
+                            "duration": "25 min"
+                        },
+                        {
+                            "type": "Public transport",
+                            "duration": "1 hr 5 min"
+                        }
+                    ]
+                },
+                {
+                    "name": "Top Burger Drive In",
+                    "transportations": [
+                        {
+                            "type": "Walking",
+                            "duration": "10 min"
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "thumbnail": "https://lh3.googleusercontent.com/proxy/u24UsZ---AsP7zrR9bFHDa2arY9rGLEb8IEXixDL1PK_5XrkEwh5wVgNYijWjkEsjVpraBf--7ri-6rmN-JLV3rlf92gh3lx2rzQti4ZEUS9Q75z6m7N3AAHFaHS3T4n7gx9rArOkjWjqVg2qv2Eenb5rvFkAQ=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://images.trvl-media.com/lodging/49000000/48260000/48252800/48252718/95c18eef.jpg?impolicy=fcrop&w=1000&h=666&quality=medium"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/proxy/2pqxkeM_seM56mv3q9fPC5Wc-W8VsbiQUrI8a08cW5S4sIY2iu5KoRSbdY9QBZHNcRE6FuSUNatHBfBREbn1n9ERSCqyaWaO0eE4QIhgpm-CR_vfnCiqPTsuKIzaDJ0rWotuZHetQqXdz_3zwTjBbO9GJsO49g=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://p.fih.io/v2/nSr0o-3gbZN8o1xMecXCcG-BkDeQVo3k-wOeVogkTe7ajuFOX7O-WA8aRWhXz1jsToZif_TsA_xCWfhWRa0ZuJaPgABz03IEEg2JfMdMtwrg9XyMQLusgBDccJL3uIawTAFc0Jq8O0znITF4en3ketkYyx1j1dLbUfhlOgkNcIcn9PwNtk_AU2csbUk6dd9sGo49Qn31qiMVOoIxofR_2o8VcZA3AAhCPReYBoJ8vY2Gq2593GaA4qYMcdDb2nQda_hJpgYxzJmtqItHLkiogoS78bjUYWZE9f9Ay6uae3Y5FxNREzWhAfU9VfE7UDJQ_hNePltJaDWrUUZGpVzU57ir3SxExzLXnp-v_NwrBzc"
+                },
+                {
+                    "thumbnail": "https://lh3.googleusercontent.com/proxy/vYvezpc4JLBFy7sN6i2qv-uJcDWZ8I73ZCzyIED8oI8X0hG1D73mV9zfS0h28JmKk0zgR_UUuDlcHaQeU0wf9TYaU2m2YSI2HdPDdZ10XWkYDfuhHqdDiERd0W5OJ2Q11EORgotmW7Crtb12kqefSiAdm027Rm4=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://images.trvl-media.com/lodging/49000000/48260000/48252800/48252718/4ddaa772.jpg?impolicy=fcrop&w=1000&h=666&quality=medium"
+                },
+                {
+                    "thumbnail": "https://lh6.googleusercontent.com/proxy/R8uc70MrZ_35iXZuWgNuAwEVkR3211taOyz9hbG4Uxa7M3c6017JNACZbS16OkPhbiL6XE2M-kxMAUVdjYetVwdsCNp604HPTTmOQc-9sr2R32jrptan43NkAM3FQcgk3-Ind9xV4m8NuJGSFedUL6ninKufRw=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://p.fih.io/v2/nSr0o-3gbZN8o1xMecXCcG-BkDeQVo3k-wOeVogkTe7ajuFOX7O-WA8aRWhXz1jsToZif_TsA_xCWfhWRa0ZgbWYmBsJyi4_FSWXbaBy0jialmLxLuym_EDScZXru7rmAiJqrbSiUnDlAzF4en3ketkYyx1j1dLbUfhlOgkNcIcn9PwNtk_AU2csbUk6dd9sGo49Qn31qiMVOoIxofR_2o8VcZA3AAhCPReYBoJ8vY2Gq2593GaA4qYMcdDb2nQda_hJpgYxzJmtqItHLkiogoS78bjUYWZE9f9Ay6uae3Y5FxNREzWhAfYpReF3Uw9Q-wZePltJaDWrUUZGpVzU54nxXbnlZr5i_UhyUawfk0k"
+                },
+                {
+                    "thumbnail": "https://lh6.googleusercontent.com/proxy/QYKKDGCW3P8vswnAIAsjaNcC0V1wCbQ3C1TrESL6hOCcKT3qGebpDZiIakj-oCv6u-2FQm-4CrD2X3-OrPM_RP7hdlyylKHJdOwuipnGj3zZoa1MhUO3ekdmEgrfs-wZa4XBYD7LRV94MPHg8BKSQGZaJBKnKQY=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://p.fih.io/v2/nSr0o-3gbZN8o1xMecXCcG-BkDeQVo3k-wOeVogkTe7ajuFOX7O-WA8aRWhXz1jsToZif_TsA_xCWfhWRa0ZtbvtiA0v7VwXBi7eb5VbzxPCqGDqQ-j9vSHeCNCnqJTgTSNmrr_aC3PNOTF4en3ketkYyx1j1dLbUfhlOgkNcIcn9PwNtk_AU2csbUk6dd9sGo49Qn31qiMVOoIxofR_2o8VcZA3AAhCPReYBoJ8vY2Gq2593GaA4qYMcdDb2nQda_hJpgYxzJmtqItHLkiogoS78bjUYWZE9f9Ay6uae3Y5FxNREzWhAfQ9Vf0_RSJQ_hJkPltJaDWrUUZGpVzU5yZ293e6RT71tjkqNEtqECY"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/proxy/otrDiB9CCz18Es57folm7iQnaz6uB0At029teKdu_2XEhlT2GUooS0_GWXnnxzNrmCTaGyPQxDwlN2q2A9a9_6Nj_j5XsWei3W9V3IIIP2jvCnSJzlZ26dVfrVUptIF47aelJTVPpVV2QX6NAzH7NgjJAbOK8g4=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://p.fih.io/v2/nSr0o-3gbZN8o1xMecXCcG-BkDeQVo3k-wOeVogkTe7ajuFOX7O-WA8aRWhXz1jsToZif_TsA_xCWfhWRa0Z2Yq3hDY25HsBDRuMQoVA4hT_jif-EuuipkzPMa3FjJftNiFi_Yz-GkrqOTF4en3ketkYyx1j1dLbUfhlOgkNcIcn9PwNtk_AU2csbUk6dd9sGo49Qn31qiMVOoIxofR_2o8VcZA3AAhCPReYBoJ8vY2Gq2593GaA4qYMcdDb2nQda_hJpgYxzJmtqItHLkiogoS78bjUYWZE9f9Ay6uae3Y5FxNREzWhAOY-VeU7RSJM_xJePltJaDWrUUZGpVzU52BUIMwVm4maBXrzlgyypJ8"
+                },
+                {
+                    "thumbnail": "https://lh4.googleusercontent.com/proxy/VGfxvGJnkBetkI23dG-ZSBJCcfXwrudSu6ARxrz0NXBmle1OeQhNu9frp9HTzJmJqunv_BTcHFEHrCq7phC6P2lcFlZiKFDOCrvCsV4Nloku71yyszov4m0YhwhVnvXAWSUPumNNfuehJFJbSR-SVCLgRBX_OQ=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://p.fih.io/v2/nSr0o-3gbZN8o1xMecXCcG-BkDeQVo3k-wOeVogkTe7ajuFOX7O-WA8aRWhXz1jsToZif_TsA_xCWfhWRa0Zn8CRshU44XUkJFKAYL5MwjiatCPpA4j-_g-QF4P0_eqjLy1L----CHPhLTF4en3ketkYyx1j1dLbUfhlOgkNcIcn9PwNtk_AU2csbUk6dd9sGo49Qn31qiMVOoIxofR_2o8VcZA3AAhCPReYBoJ8vY2Gq2593GaA4qYMcdDb2nQda_hJpgYxzJmtqItHLkiogoS78bjUYWZE9f9Ay6uae3Y5FxNREzWhAfQ-Uvl5Ux9u-xNOPltJaDWrUUZGpVzU56ySFw36YzP_nDbHqIAysAQ"
+                },
+                {
+                    "thumbnail": "https://lh6.googleusercontent.com/proxy/cOgKfaGeAQ6-KGrlbQ_seQ2EqsIIp8JhZSNPvQWz1PY01xfX36IY664NWzQeKSiqea_LZCvKbgVONDTsAL4ZJGtEkTacRwKCNg0k7JgI0b22w23Y_KATejqYIU-caSld8QACrWUiyyYoIVTd3Em_3D2w58Fvs-Y=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://images.trvl-media.com/lodging/49000000/48260000/48252800/48252718/ff994855.jpg?impolicy=fcrop&w=1000&h=666&quality=medium"
+                },
+                {
+                    "thumbnail": "https://lh3.googleusercontent.com/proxy/-eQU4XUXobISgBN0MNabTdcTnxuFWH2QN7vKeSKU7HnvfGIhzEQjaZW25BjI6R6zXHS28HZ8MISUzOETfaHxfC41Sa706AUgaWb-pJlGe6pxEUbI_O9o-QdDJJNab9bIW5hrNjbz5f4BJ9OyJlSFabvp0f-F8g=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://p.fih.io/v2/nSr0o-3gbZN8o1xMecXCcG-BkDeQVo3k-wOeVogkTe7ajuFOX7O-WA8aRWhXz1jsToZif_TsA_xCWfhWRa0ZqceJgAgsv10zJx22WcEauz6c9kPOI5OKqBf3EN-jpKyhCV5Np63rDla3ITF4en3ketkYyx1j1dLbUfhlOgkNcIcn9PwNtk_AU2csbUk6dd9sGo49Qn31qiMVOoIxofR_2o8VcZA3AAhCPReYBoJ8vY2Gq2593GaA4qYMcdDb2nQda_hJpgYxzJmtqItHLkiogoS78bjUYWZE9f9Ay6uae3Y5FxNREzWhAbkpa-k9UAhQ-wVkPltJaDWrUUZGpVzU53rDwPBpi-GUD6tfh1CyVfM"
+                }
+            ],
+            "overall_rating": 4.810487,
+            "reviews": 280,
+            "location_rating": 3.4,
+            "amenities": [
+                "Kid-friendly",
+                "Fireplace",
+                "Heating",
+                "Hot tub",
+                "Ironing board",
+                "Kitchen",
+                "Microwave",
+                "Smoke-free",
+                "Cable TV",
+                "Washer",
+                "Free parking",
+                "Free Wi-Fi"
+            ],
+            "excluded_amenities": [
+                "No air conditioning",
+                "No airport shuttle",
+                "No balcony",
+                "No beach access",
+                "No crib",
+                "No elevator",
+                "No free breakfast",
+                "No fitness center",
+                "No indoor pool",
+                "No outdoor grill",
+                "No outdoor pool",
+                "No oven stove",
+                "No patio",
+                "Not pet-friendly",
+                "Not wheelchair accessible"
+            ],
+            "essential_info": [
+                "Entire apartment",
+                "Sleeps 2",
+                "1 bedroom",
+                "1 bathroom",
+                "1 bed",
+                "1,896 sq ft"
+            ],
+            "property_token": "ChkQx7jC9da6h9BgGg0vZy8xMXZ4NmMyNWowEAI",
+            "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2024-10-31&check_out_date=2024-11-05&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&property_token=ChkQx7jC9da6h9BgGg0vZy8xMXZ4NmMyNWowEAI&q=Coffee"
+        },
+        {
+            "type": "vacation rental",
+            "name": "Cozy & Modern Tiny Home with Beautiful Valley View close to PDX",
+            "link": "https://www.vrbo.com/3930851?MDPCID=VRBO-META.HPA.WEB-ORGANIC.VR",
+            "gps_coordinates": {
+                "latitude": 45.65338134765625,
+                "longitude": -122.65557861328125
+            },
+            "rate_per_night": {
+                "lowest": "$128",
+                "extracted_lowest": 128,
+                "before_taxes_fees": "$82",
+                "extracted_before_taxes_fees": 82
+            },
+            "total_rate": {
+                "lowest": "$638",
+                "extracted_lowest": 638,
+                "before_taxes_fees": "$410",
+                "extracted_before_taxes_fees": 410
+            },
+            "prices": [
+                {
+                    "source": "Vrbo.com",
+                    "logo": "https://www.gstatic.com/travel-hotels/branding/icon_1850600648__vrbo.com.png",
+                    "num_guests": 2,
+                    "rate_per_night": {
+                        "lowest": "$128",
+                        "extracted_lowest": 128,
+                        "before_taxes_fees": "$82",
+                        "extracted_before_taxes_fees": 82
+                    }
+                }
+            ],
+            "nearby_places": [
+                {
+                    "name": "Portland International Airport",
+                    "transportations": [
+                        {
+                            "type": "Taxi",
+                            "duration": "25 min"
+                        },
+                        {
+                            "type": "Public transport",
+                            "duration": "1 hr 45 min"
+                        }
+                    ]
+                },
+                {
+                    "name": "Beaches Restaurant & Bar",
+                    "transportations": [
+                        {
+                            "type": "Taxi",
+                            "duration": "10 min"
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "thumbnail": "https://lh4.googleusercontent.com/proxy/3NboCuesMyFQAdo2QSsfKw--uUn8vPAMV8txK6DbnRXRet6MJ7EIpSMJu5Slc6m1ztm0_eLjv3tK10Halv8MgosOs1MO6vvAIJs0_7YVGwLkE5Jr6ZCW3WZRIVzaLIb5BZEyxZk2XfIZcr3K0J50Is5oXZOswj4=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://media.vrbo.com/lodging/104000000/103740000/103736700/103736663/aa361d88.jpg"
+                },
+                {
+                    "thumbnail": "https://lh3.googleusercontent.com/proxy/AKbm5ZNbeqm5lY4VckuqhnGWaYFeJfP_NVUkzQscRnykNmdkXlRHdP5e3C-2SZ1sN8Tkz-xe7BbUc0YfOyY75Qpmol9Yrxh7DYziCEKNyx6OQ9jbYXqq3XVVwR00VQXkbQMFnsaMiQ6x496nHZ1zh1m_YnjjYw=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://media.vrbo.com/lodging/104000000/103740000/103736700/103736663/cf7867ae.jpg"
+                },
+                {
+                    "thumbnail": "https://lh3.googleusercontent.com/proxy/BS_l7kWw1YkmJa6EYN_oMJPcwPN9LUFjJCB1momN8tijcvmFQVK_EEiuz3UgSnGVFbAxX1CU4oQUHYy3y2JMlMbYXIp7fvFZTOhvMj7KORulKazGwQDdheACdfsxQMl_7QVEAOynDttUgwqHag_Dqo0FPTkznA=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://media.vrbo.com/lodging/104000000/103740000/103736700/103736663/584b74f4.jpg"
+                },
+                {
+                    "thumbnail": "https://lh4.googleusercontent.com/proxy/qVWpF1pozFFkAGYDCtUFrD6zOJzg9hrQRIrD3lyXN035_2BsAxbhV0YGKcCijutvcFEALLt3rIenZTee-Y8lPFdCqDkgNZn4J76-Uinh2Qbp75m_gkl8u_wQfiqwdrY-NTQxjfNbkz8kG6IJ7wlZRwzQEZLonw=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://media.vrbo.com/lodging/104000000/103740000/103736700/103736663/f4b9e253.jpg"
+                },
+                {
+                    "thumbnail": "https://lh6.googleusercontent.com/proxy/W4-4b9B0rgaG3dyeSlUSp6DPxdF5iiZNwJOfAx6-PrMoFuGQn_vUNjwD_ongPIm1JwY9IT4IHQ8vrReMuX4yzgjRmZKb4mYHE1HAJKIzicDtSNAAE0-UaZKikDsyLERbZNjFoN-bsAsgcSu9xIfmp-ZKbKf_nIU=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://media.vrbo.com/lodging/104000000/103740000/103736700/103736663/3cddc3c3.jpg"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/proxy/ouqx1yRcwB2NsnomXAuBf5SguvYdeiRs3FmibhxzmVAGhj3F9yschQTYxsAUE5kVh9p8nNqk-sBgbVVHdgeXVDuMndrUzK3-pJNtT7IcqIsBZQbYVJwUqi9hqybC5ojBx8xn1UmeuVoEr3rXI4Ezxwr2FS4xhw=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://media.vrbo.com/lodging/104000000/103740000/103736700/103736663/75692977.jpg"
+                },
+                {
+                    "thumbnail": "https://lh4.googleusercontent.com/proxy/STuxcPPSVLvV3FAngAZ8hZDG_h-XHxafsL3YW8GvHNwAhd06kdYJXmimLYcfvrbPdWhs9ODUabkjdDDQOkNT9Gck7QXeDxDD0I2_SslD7c2zZYomNXzLVAfWmAZyVmxf8JabgkkxYVZgk2cbymmZfwp_cdwfcA=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://media.vrbo.com/lodging/104000000/103740000/103736700/103736663/cd0ae6cc.jpg"
+                },
+                {
+                    "thumbnail": "https://lh3.googleusercontent.com/proxy/6LxKJzdUs3iZLbKfON1CBYh4KSYqZTNPxyVG_MgplSfHwgtEWj6TcBWacJ6lP0fZ7DkMAyhyyEww-3Ps8YDBJ-EKGyxLXZxR50Or41B4ZpkfxlhmnK-OsqHbQqSE-xSkxUTle_4Y4SXyvvUnd1DtOF1Pe8I2fA=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://media.vrbo.com/lodging/104000000/103740000/103736700/103736663/db12317f.jpg"
+                },
+                {
+                    "thumbnail": "https://lh4.googleusercontent.com/proxy/7gpuEw9swhuQW0NZg2nIHw57hdAF5WyfBcDL6qhvELEvqkbIHfCMJKF8R4R59wqT7NnLOFGnKZt9I1NLPtX_X_rYCplDhKaEcXlMhI2ce-E8icLCWdjAb1HpmytReqp6JdsIyQAXJij_9b6uQvga3lJYSetiPe0=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://media.vrbo.com/lodging/104000000/103740000/103736700/103736663/ac1a1c3b.jpg"
+                }
+            ],
+            "overall_rating": 4.7,
+            "reviews": 3,
+            "location_rating": 3.7,
+            "amenities": [
+                "Air conditioning",
+                "Kid-friendly",
+                "Heating",
+                "Kitchen",
+                "Microwave",
+                "Patio",
+                "Smoke-free",
+                "Washer",
+                "Free parking",
+                "Free Wi-Fi"
+            ],
+            "excluded_amenities": [
+                "No indoor pool",
+                "No outdoor pool",
+                "Not pet-friendly"
+            ],
+            "essential_info": [
+                "Entire cottage",
+                "Sleeps 2",
+                "1 bedroom",
+                "1 bathroom",
+                "1 bed"
+            ],
+            "property_token": "ChkQ06_V48uL8b9PGg0vZy8xMXZ3d3MxMXZxEAI",
+            "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2024-10-31&check_out_date=2024-11-05&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&property_token=ChkQ06_V48uL8b9PGg0vZy8xMXZ3d3MxMXZxEAI&q=Coffee"
+        },
+        {
+            "type": "vacation rental",
+            "name": "Romantic Stay For Two N Classy Downtown Apartment",
+            "gps_coordinates": {
+                "latitude": 45.640419006347656,
+                "longitude": -122.67772674560547
+            },
+            "check_in_time": "4:00\u202fPM",
+            "check_out_time": "10:00\u202fAM",
+            "rate_per_night": {
+                "lowest": "$157",
+                "extracted_lowest": 157,
+                "before_taxes_fees": "$100",
+                "extracted_before_taxes_fees": 100
+            },
+            "total_rate": {
+                "lowest": "$787",
+                "extracted_lowest": 787,
+                "before_taxes_fees": "$500",
+                "extracted_before_taxes_fees": 500
+            },
+            "prices": [
+                {
+                    "source": "Vrbo.com",
+                    "logo": "https://www.gstatic.com/travel-hotels/branding/icon_1850600648__vrbo.com.png",
+                    "num_guests": 2,
+                    "rate_per_night": {
+                        "lowest": "$157",
+                        "extracted_lowest": 157,
+                        "before_taxes_fees": "$100",
+                        "extracted_before_taxes_fees": 100
+                    },
+                    "free_cancellation": true,
+                    "free_cancellation_until_date": "Oct 31"
+                }
+            ],
+            "nearby_places": [
+                {
+                    "name": "Fourth Plain & Harney",
+                    "transportations": [
+                        {
+                            "type": "Walking",
+                            "duration": "3 min"
+                        }
+                    ]
+                },
+                {
+                    "name": "Portland International Airport",
+                    "transportations": [
+                        {
+                            "type": "Taxi",
+                            "duration": "19 min"
+                        },
+                        {
+                            "type": "Public transport",
+                            "duration": "1 hr 30 min"
+                        }
+                    ]
+                },
+                {
+                    "name": "Boomers",
+                    "transportations": [
+                        {
+                            "type": "Taxi",
+                            "duration": "6 min"
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "thumbnail": "https://lh4.googleusercontent.com/proxy/uz84zZNP7QPD8MShl110ff6XDVxud6c4EnhTVQsr2cH5-gVVkduwWBR4AabIvYr4ySsYsjIE43B3OJZUtRFCLcjP22V2MzJQec1mfmYdQDvqZz2UztWhthY7Frd2gxkkVaiX2BOyFkd8R7CiWtifuc_GsNblquM=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://q-xx.bstatic.com/xdata/images/hotel/max1440x1080/436977700.jpg?k=77eae8d0639a81d555a5e810b20a4478ab669b141f53346e30714655f8fe37d8&o="
+                },
+                {
+                    "thumbnail": "https://lh6.googleusercontent.com/proxy/dTGUlXMo6Ony-vqKUwh0geUk8NHw4gGGpsf_zdCtukyQ0mCr5erBjbBHvID4RUDsk6IGT6koFGtdcNNU-VUtwzn-PYauMcA3ROo7WMxqqfcIH03cYmr4_WmI-UxIDZ5VOZ6WyxI47kLFUd3_PXMr_tV2KHhtJMk=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://q-xx.bstatic.com/xdata/images/hotel/max1440x1080/436977683.jpg?k=f9544b78694eb5d740ca85a760c7de62a60bf451b5250c0e413970494c4abaa3&o="
+                },
+                {
+                    "thumbnail": "https://lh6.googleusercontent.com/proxy/UqydFd-ZzNf0HgpMgFp-Hvt6vDQiBoNEydHxOMPAictfO0l8q_AbdwGjXnVk-_Emqs7r6eV_8CoMzeGYT6eTVLdDzllbC6Jlq17GgdXnvRi0jx_okDy0btiSHlx4Ms1McVLP3s__wjouqOZYz3OWi9AxshoHiA=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://q-xx.bstatic.com/xdata/images/hotel/max1440x1080/436977689.jpg?k=d9c49c0fb14f6e15a20892fbdda87350b0fbd362ae4b5d5acb61e01f1cdae7b7&o="
+                },
+                {
+                    "thumbnail": "https://lh4.googleusercontent.com/proxy/rBH85ex3hhUClaks19D1pPZgl4bIXotYO6UghAY3oq-UTEt7ydq0nDyKaa53CJW8gHksqLiadxRFuMo83YYi7eYCl1yTdeifCJ0Ge6_J5LCHZ4LZNj6O3OtxAv2Jgd9xaFtJJJy6diiO_yXV6LyE988a2zNIrg=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://media.vrbo.com/lodging/109000000/108780000/108777600/108777578/5d4c8d2c.jpg"
+                },
+                {
+                    "thumbnail": "https://lh4.googleusercontent.com/proxy/MBfT4B2bN_5YjeCna9rVkVQtQngVgWXjLMYRqqPtuanQs0PrBuy7Jw1dqC9X_N__KfewiCZm6aYAhOQwti6-fOVkMoinE-oNd11tWlVYAz6WHDXDjEAPAqZdUEZ_BGROHTSWpk_juPuW3W2RpS2iZlgNiCuDCec=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://media.vrbo.com/lodging/109000000/108780000/108777600/108777578/5a2ffe92.jpg"
+                },
+                {
+                    "thumbnail": "https://lh4.googleusercontent.com/proxy/VPEroOeuzODoD9kxmL5SkMbcXzLVamkU2plj-k1HM5dJYneozQ-NcA-og5x_n1G6Q-58uzN4s4eY3ujDxQhgYGsWdp6CSAWfO-FcE3wpz0rIJG7xv5DYJqSYY1-qdFQx-WAeCMYqtbbPzjRWosFZdTXOqlRT6g=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://media.vrbo.com/lodging/109000000/108780000/108777600/108777578/6b45f8c8.jpg"
+                },
+                {
+                    "thumbnail": "https://lh4.googleusercontent.com/proxy/AIsaKVc1gIUoscYW2zoIwNEH69jLqgHYyVIoP82gkCYW85EN7-MDx04bM2Xn7QFQ27LVtX7WopuoxYwJHGnsVRyTJgoOsOXFUXJB1QdgmxwnFhpX00HdDffRYBnj9m_njqVpwIXPdO0w6TIpoSmaMiigQMUNPL8=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://q-xx.bstatic.com/xdata/images/hotel/max1440x1080/436977652.jpg?k=110501867938d1bbe72c416b3c133c8cc56b9d9fa109c7f5c67f702f648f64d2&o="
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/proxy/xnTciZyRjxzuYPWpXZj34CkxT7U5aSRDq-ChYSj4H1MdQcGxLT7VdCg__JcfIG20zyRK-UNJOS56_Yl2Qu6ZKRfX9cOs3vCGYH5B8CBibHBb3SWICIySE2AQyEr1TFLyQNcHpzW8kf3f7XfXh1ro8IoUrfvY2A=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://media.vrbo.com/lodging/109000000/108780000/108777600/108777578/71cc2bd4.jpg"
+                },
+                {
+                    "thumbnail": "https://lh3.googleusercontent.com/proxy/9rcJwk0WKLnonkfZCd9bAD-uir7OPNqSM7NjPzS8AThaEKaMgP6JQjETf2Lgo3V2Hu0hgNwBBnTWaIaAoDPfUMpm68PAKoS5b5vKIP0S6rCnQRL_eb5CpM1grkYwt-Z8LceN2Vf4ztvbXsWTxv7um1VaFQiGemI=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://q-xx.bstatic.com/xdata/images/hotel/max1440x1080/436977696.jpg?k=bcc732e68f2ca267f52aca440fc091ffd9cb72a16d4df9aca6b576ed8ec79f0b&o="
+                }
+            ],
+            "location_rating": 3.8,
+            "amenities": [
+                "Air conditioning",
+                "Fireplace",
+                "Heating",
+                "Ironing board",
+                "Kitchen",
+                "Smoke-free",
+                "Cable TV",
+                "Washer",
+                "Free Wi-Fi"
+            ],
+            "excluded_amenities": [
+                "No airport shuttle",
+                "No balcony",
+                "No beach access",
+                "Not kid-friendly",
+                "No crib",
+                "No elevator",
+                "No fitness center",
+                "No hot tub",
+                "No indoor pool",
+                "No microwave",
+                "No outdoor grill",
+                "No outdoor pool",
+                "No oven stove",
+                "No patio",
+                "Not pet-friendly",
+                "Not wheelchair accessible",
+                "No parking"
+            ],
+            "essential_info": [
+                "Entire apartment",
+                "Sleeps 2",
+                "1 bedroom",
+                "1 bathroom",
+                "1 bed"
+            ],
+            "property_token": "ChkQrsf0odmvqbcxGg0vZy8xMXYzZmZycmtoEAI",
+            "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2024-10-31&check_out_date=2024-11-05&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&property_token=ChkQrsf0odmvqbcxGg0vZy8xMXYzZmZycmtoEAI&q=Coffee"
+        },
+        {
+            "type": "vacation rental",
+            "name": "Serenity Floating Home",
+            "gps_coordinates": {
+                "latitude": 45.70491027832031,
+                "longitude": -122.71961212158203
+            },
+            "check_in_time": "4:00\u202fPM",
+            "check_out_time": "11:00\u202fAM",
+            "rate_per_night": {
+                "lowest": "$231",
+                "extracted_lowest": 231,
+                "before_taxes_fees": "$150",
+                "extracted_before_taxes_fees": 150
+            },
+            "total_rate": {
+                "lowest": "$1,154",
+                "extracted_lowest": 1154,
+                "before_taxes_fees": "$750",
+                "extracted_before_taxes_fees": 750
+            },
+            "prices": [
+                {
+                    "source": "Vrbo.com",
+                    "logo": "https://www.gstatic.com/travel-hotels/branding/icon_1850600648__vrbo.com.png",
+                    "num_guests": 6,
+                    "rate_per_night": {
+                        "lowest": "$231",
+                        "extracted_lowest": 231,
+                        "before_taxes_fees": "$150",
+                        "extracted_before_taxes_fees": 150
+                    },
+                    "free_cancellation": true,
+                    "free_cancellation_until_date": "Oct 31"
+                }
+            ],
+            "nearby_places": [
+                {
+                    "name": "Portland International Airport",
+                    "transportations": [
+                        {
+                            "type": "Taxi",
+                            "duration": "31 min"
+                        },
+                        {
+                            "type": "Public transport",
+                            "duration": "2 hr 10 min"
+                        }
+                    ]
+                },
+                {
+                    "name": "Billygan's Roadhouse"
+                }
+            ],
+            "images": [
+                {
+                    "thumbnail": "https://lh3.googleusercontent.com/proxy/seSqotfCuXdxowRINDV3KIJ87nA09N-rS4K4iMcV4hL6S6Th_bNESZugAD46HGUNVA-c6tg5MLSEK3jlM1z3flZJ46UnAUn7-GafXsArGJWFdLye2Xne2Al2qRxXDeP59X7cRGXOkiPKZFrOkIKYTpqzD6u-W_E=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://images.trvl-media.com/lodging/90000000/89640000/89635800/89635721/556f6588.jpg?impolicy=fcrop&w=1000&h=666&quality=medium"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/proxy/SrgQ_Mdj1-TL-pC-tXRY3v4mG5NYVit1MMUZXEKcFHyYFH5PReEsmW-IZn0ErQXbU3vMvupANyOQZnxb4FvqPFf_mhzPWjce5GbrJYJSzdoV9m-cCJr8boIwsHzG4TzUeDoSG-zVFAhE166W-EPkSavKoL0hJQ=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://p.fih.io/v2/nSr0o-3gbZN8o1xMecXCcG-BkDeQVo3k-wOeVogkTe7ajuFOX7O-WA8aRWhXz1jsToZif_TsA_xCWfhWRa0ZiJjsmg4HzGIeageEcdto8CzggFCLH5_-gTvQM9T0i_GyVih3suXJBFD-djF4en3ketkYyx1j1dLbUfhlOgkNcIcn9PwNtk_AU2csbUk6dd9sGo49Qn31qiMVOoIxofR_2o8VcZA3AAhCPReYBoJ8vY2Gq2593GaA4qMOYdDb2nQda_hJpgIx3ImvqItHLkiogoC74aifYlhE9f9Ay6-aa2ZyFC1REjexAfQ9e-U9RFdbohFePltJaDWrUUZGpVzU51705hm1Q4qSSujAKSqGm08"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/proxy/Tm1zqFqxvCIT2VcU7xRGo-lq_OtUf-5iDA92dzDRw-Eh2teAa2pfn_j1R_nDfx-K_I6IkXYCaaDhySEOExe67xXggQfwm3Xb0IFojXMaBy4dSrQlpskpBZPHMv1Kh_tjdN9ocwfbw0zkLSOk9uqoWAg3Y8-mWTU=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://p.fih.io/v2/nSr0o-3gbZN8o1xMecXCcG-BkDeQVo3k-wOeVogkTe7ajuFOX7O-WA8aRWhXz1jsToZif_TsA_xCWfhWRa0ZsISm7iMoyiA-bAW-Q6YO6xbnqibAHaqtvzD-NbP2i5biITZ8577XCEy_ITF4en3ketkYyx1j1dLbUfhlOgkNcIcn9PwNtk_AU2csbUk6dd9sGo49Qn31qiMVOoIxofR_2o8VcZA3AAhCPReYBoJ8vY2Gq2593GaA4qMOYdDb2nQda_hJpgIx3ImvqItHLkiogoC74aifYlhE9f9Ay6-aa2ZyFC1REjexAOE-Re0_UCFHohJkPltJaDWrUUZGpVzU565OKoxh_5JVyq6M8c04d2M"
+                },
+                {
+                    "thumbnail": "https://lh4.googleusercontent.com/proxy/2UqRrlXwAaAnd__CJZVWLE-hZS7oJoQxiR4T6PFCdyQIg2Mv9VzQUrrbFBsKdtCRIQMe6ZpYcOnQsuGNwQ6ZQXklV8EbxUSPcLAZu8Sx4g2CGmk0LKgLvbIl8evc2SoDvpWEwMHQm7dvR3zzR1k7llpTTZ1ZJ1Q=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://p.fih.io/v2/nSr0o-3gbZN8o1xMecXCcG-BkDeQVo3k-wOeVogkTe7ajuFOX7O-WA8aRWhXz1jsToZif_TsA_xCWfhWRa0Z3afnunt32HoobxyQf8BC9BzepieIEI24vBLJNo7GmYmwM19r3az4Bxe0djF4en3ketkYyx1j1dLbUfhlOgkNcIcn9PwNtk_AU2csbUk6dd9sGo49Qn31qiMVOoIxofR_2o8VcZA3AAhCPReYBoJ8vY2Gq2593GaA4qMOYdDb2nQda_hJpgIx3ImvqItHLkiogoC74aifYlhE9f9Ay6-aa2ZyFC1REjexAOQ-a8M8UwhfowZePltJaDWrUUZGpVzU5znvo2N31RjAMhzWlCYpFEU"
+                },
+                {
+                    "thumbnail": "https://lh6.googleusercontent.com/proxy/w9qYD-Aul5Cm48fajkLZxXC1SIrOgoF6d9KrYDB_itIn-S_Bsjl3OO3bJCCE1F6qgGMAn5uVZWJfXpZBY0eBSpldAEU_ynr3Fa9Wc6JWMcWvorS7X657GJEt8qc2z9WwtZgcXdOzma13LGEzjFeciYY9Tj7PQMo=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://p.fih.io/v2/nSr0o-3gbZN8o1xMecXCcG-BkDeQVo3k-wOeVogkTe7ajuFOX7O-WA8aRWhXz1jsToZif_TsA_xCWfhWRa0ZiIa2ghsVtGYnFzuMSblv2zPNtCHLJpuv9zrbCbzjjbqbEg5wzJzILXPNOTF4en3ketkYyx1j1dLbUfhlOgkNcIcn9PwNtk_AU2csbUk6dd9sGo49Qn31qiMVOoIxofR_2o8VcZA3AAhCPReYBoJ8vY2Gq2593GaA4qMOYdDb2nQda_hJpgIx3ImvqItHLkiogoC74aifYlhE9f9Ay6-aa2ZyFC1REjexAOA9Vfk7Rx9u_xE5PltJaDWrUUZGpVzU5yn95tolAMOXoYzDwBbtqiw"
+                },
+                {
+                    "thumbnail": "https://lh3.googleusercontent.com/proxy/yCUz1sePSFEiqhTUUojRf9Y-fbxlvV8GyWQfABls7TYw9bLcuq82BkPGkCxuyqhYkyQZbxoKM7s4UoQXFtoe5KL5wcXWxhfdtIdQS8b8Cp6obnEKBj8Him7brehB37vcNDKRk7BiLfp3ChuwVbDdgMruifVcghM=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://p.fih.io/v2/nSr0o-3gbZN8o1xMecXCcG-BkDeQVo3k-wOeVogkTe7ajuFOX7O-WA8aRWhXz1jsToZif_TsA_xCWfhWRa0Zubrt4n05xm4oJDKRGaNIwgne93_9O6GFg0_EAr7TrZmFCARK_rHlBkPxDzF4en3ketkYyx1j1dLbUfhlOgkNcIcn9PwNtk_AU2csbUk6dd9sGo49Qn31qiMVOoIxofR_2o8VcZA3AAhCPReYBoJ8vY2Gq2593GaA4qMOYdDb2nQda_hJpgIx3ImvqItHLkiogoC74aifYlhE9f9Ay6-aa2ZyFC1REjexAb89a8RmUCJE_xI5PltJaDWrUUZGpVzU5yrup2qH3lHeOKcgbldJ_8k"
+                },
+                {
+                    "thumbnail": "https://lh6.googleusercontent.com/proxy/BB1iKA4aqB6S4VrFiWNG7L-vjc9aPFakzNwDYWuckWcS-WlD1esz7yTCgNkUjZpyxCAisbZbSDXIXxWN0kGtywaW0nc97FszgbS-Zu_EIuDehcf7cnPSqNT5ppO7gT2M6CHimSlKby6nEHzeOQQvvdqqnErwmA=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://images.trvl-media.com/lodging/90000000/89640000/89635800/89635721/129359c3.jpg?impolicy=fcrop&w=1000&h=666&quality=medium"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/proxy/-0Juk3eZCVmrk06FrnIve24W3xnKA_2mHHhCm6HEBNUpZUL0Ej-EwpR610F6tfl_qDIky96MCDtbU6g2ikmjVv91BjWCdMJ3fZEMAS_2OhBK-54j7ShzR3xVlg0xK-v2761ntRFMdzI9rjYfEOyw0wGi7mnGbg=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://images.trvl-media.com/lodging/90000000/89640000/89635800/89635721/33636f96.jpg?impolicy=fcrop&w=1000&h=666&quality=medium"
+                },
+                {
+                    "thumbnail": "https://lh6.googleusercontent.com/proxy/VMShFaCCphGkxg9Bih4nxujjEFKtPM-uVH0bzJUPaBdx3mIZNKcX-ZUx4CGJ7GaZ3MKJ5TAVfu09XLpdgHDQIHkVNM6dHQvhugK3kBo_w_MOsSik4IoKaTjDPVJaJYoAtogTbySYqZKqusz44isJfe-SDbseLLI=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://p.fih.io/v2/nSr0o-3gbZN8o1xMecXCcG-BkDeQVo3k-wOeVogkTe7ajuFOX7O-WA8aRWhXz1jsToZif_TsA_xCWfhWRa0Z0pW1kjwM8n80bSCNQYBmzGvItH_rO4-U-hX_A9XlmujiLQJLzb-3InfDITF4en3ketkYyx1j1dLbUfhlOgkNcIcn9PwNtk_AU2csbUk6dd9sGo49Qn31qiMVOoIxofR_2o8VcZA3AAhCPReYBoJ8vY2Gq2593GaA4qMOYdDb2nQda_hJpgIx3ImvqItHLkiogoC74aifYlhE9f9Ay6-aa2ZyFC1REjexAfU_e-V0RzFDpxFOPltJaDWrUUZGpVzU595M-QlT9JMQ6bp6bMiXX4Q"
+                }
+            ],
+            "overall_rating": 4.1,
+            "reviews": 11,
+            "location_rating": 3.3,
+            "amenities": [
+                "Air conditioning",
+                "Heating",
+                "Kitchen",
+                "Microwave",
+                "Outdoor grill",
+                "Oven stove",
+                "Patio",
+                "Pet-friendly",
+                "Smoke-free",
+                "Cable TV",
+                "Washer",
+                "Free parking",
+                "Free Wi-Fi"
+            ],
+            "excluded_amenities": [
+                "No airport shuttle",
+                "No balcony",
+                "No beach access",
+                "Not kid-friendly",
+                "No crib",
+                "No elevator",
+                "No fireplace",
+                "No free breakfast",
+                "No fitness center",
+                "No hot tub",
+                "No indoor pool",
+                "No ironing board",
+                "No outdoor pool",
+                "Not wheelchair accessible"
+            ],
+            "essential_info": [
+                "Entire cottage",
+                "Sleeps 6",
+                "3 bedrooms",
+                "2 bathrooms",
+                "3 beds"
+            ],
+            "property_token": "ChoQyvX1r_uisaCPARoNL2cvMTF2cnh0bmNmYxAC",
+            "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2024-10-31&check_out_date=2024-11-05&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&property_token=ChoQyvX1r_uisaCPARoNL2cvMTF2cnh0bmNmYxAC&q=Coffee"
+        },
+        {
+            "type": "vacation rental",
+            "name": "Alberta Arts Treehouse",
+            "gps_coordinates": {
+                "latitude": 45.56138229370117,
+                "longitude": -122.6341781616211
+            },
+            "check_in_time": "4:00\u202fPM",
+            "check_out_time": "12:00\u202fPM",
+            "rate_per_night": {
+                "lowest": "$155",
+                "extracted_lowest": 155,
+                "before_taxes_fees": "$100",
+                "extracted_before_taxes_fees": 100
+            },
+            "total_rate": {
+                "lowest": "$775",
+                "extracted_lowest": 775,
+                "before_taxes_fees": "$501",
+                "extracted_before_taxes_fees": 501
+            },
+            "prices": [
+                {
+                    "source": "Vrbo.com",
+                    "logo": "https://www.gstatic.com/travel-hotels/branding/icon_1850600648__vrbo.com.png",
+                    "num_guests": 4,
+                    "rate_per_night": {
+                        "lowest": "$155",
+                        "extracted_lowest": 155,
+                        "before_taxes_fees": "$100",
+                        "extracted_before_taxes_fees": 100
+                    },
+                    "free_cancellation": true,
+                    "free_cancellation_until_date": "Oct 31"
+                }
+            ],
+            "nearby_places": [
+                {
+                    "name": "NE 30th & Emerson",
+                    "transportations": [
+                        {
+                            "type": "Walking",
+                            "duration": "5 min"
+                        }
+                    ]
+                },
+                {
+                    "name": "Portland International Airport",
+                    "transportations": [
+                        {
+                            "type": "Taxi",
+                            "duration": "20 min"
+                        },
+                        {
+                            "type": "Public transport",
+                            "duration": "55 min"
+                        }
+                    ]
+                },
+                {
+                    "name": "La Bonita",
+                    "transportations": [
+                        {
+                            "type": "Walking",
+                            "duration": "10 min"
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/proxy/yhWg9XOtjb42475oFUNAoSPN-fjk10Nwsuw367204LzkZhXv548yLoDXx7CFSymKWQLsD8TZP0YxpbkfxQyJXwfXoG-wQ6sJ2AKqOKHiKmNhZ37V06VNYamJs80Umf_f4aIi7Dh7qVUOXg-2BQOyOabBuw4VAVs=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://media.staticontent.com/media/pictures/690f934c-e6a7-42af-aa15-80c8987ea1c4"
+                },
+                {
+                    "thumbnail": "https://lh3.googleusercontent.com/proxy/vNsf01WmCJHawwrwlaWBsZLt7R_w67WqeUr1KdV5PBgruS6sXgcja48YDTVxSuHhLceKUY3L3tnAwAKMURZeB9mlMnZ2fTnfVdE-JO8gv1NEse9huOnrBnm4hiJeVupJj5h0gvNM7bFi2l1Qqvl1vm3v7J0fMk0=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://media.vrbo.com/lodging/102000000/101170000/101166200/101166141/f243cb34.jpg"
+                },
+                {
+                    "thumbnail": "https://lh4.googleusercontent.com/proxy/gWa-pRaA51L7iSpZdlbsHhW4JC3jBaICTlwegh90gcfHyWrlfCsw4KStUCbnynCG20YaYKid4fZgirKclE-J4e17npizPeawuC1YS2ldqixTsL0Xl7epSZrEVgqyWm7DXWUXmnfeRHn4Iv7yPqrKPkW3_XKR5aY=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://media.vrbo.com/lodging/102000000/101170000/101166200/101166141/fb02de38.jpg"
+                },
+                {
+                    "thumbnail": "https://lh3.googleusercontent.com/proxy/RHmMIpBLedZYHySSIubCMpw-EqoF9LdfoQ9guhWUI-ISip7KLDOFhupXlo-f9tVrfvPy_WwydKyDNaxJJW20Vz7d6DtzpA5tSNjoYf04u1Gio2wFWiZuSuX3DQoLzuPiwLj5g-tdAaIr2CPpLGGijcFzz1aJMDc=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://media.vrbo.com/lodging/102000000/101170000/101166200/101166141/ea53ceb9.jpg"
+                },
+                {
+                    "thumbnail": "https://lh3.googleusercontent.com/proxy/yZRfyNM4SUWHGzpum3gsHzDVKjPyc2nsNz6ymWzq9MWvB-aG6Q3bbXHm74RwqVxeYkk8nZus-x-AzVQU8vpEM1CNmvQK1sgmC-NieQ0gTCYRGOcG44dNccgcBMTfQOFnxUrYjKTHdK_3fxZ7dF8xQL2ZcVW12w=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://media.staticontent.com/media/pictures/fd250d82-54b6-4653-a915-98c3e1e3a60d"
+                },
+                {
+                    "thumbnail": "https://lh6.googleusercontent.com/proxy/TfdaE0YpB9MrvxFWPr2vnvkzQ7tkj4CAdaYClwRQS_D_x5qWLKX-8ZDLFchfJUWrdktrHnHHLEubxUIWIg3IshK7vQ2effyoeIEmQX_u4DXtnac-x06Xwd0bwdclLjYX7ldvN_m9zn8jRYbRx2Zd_uRcs7Or7Ko=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://media.vrbo.com/lodging/102000000/101170000/101166200/101166141/0fd451ff.jpg"
+                },
+                {
+                    "thumbnail": "https://lh6.googleusercontent.com/proxy/8ZZjnfjtCgLQpIErmmEyx4xr-qcyrSzTYZQJTRk86Dr1d619E_ALnytd65PVlrwNCgBqFmPrFf1sJqHf94YMZm9UelR_cbql14ObHnqyGkOvkesf4nxgqi5WwNL4pYifoN2zkhZwSTGc0lqJM9azH4g0aT0v2A=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://media.staticontent.com/media/pictures/b35a542f-cb1b-496c-a1a9-1b5da19c98a7"
+                },
+                {
+                    "thumbnail": "https://lh4.googleusercontent.com/proxy/Yfudwq-j3m72LHZWij_GkcRz3OUow5p3gjGabgfU4vyEKgEiLV8iPgGb_y7zEbD3GyNhnaoX-V9qKSawdBjBJYNF1ufx1bC8dIUy7qsQiFTe3gD6NfAhM3HNfFNKaOXNZ6K44PnRasMq7FrFqsjq6QqbwIG5vw=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://media.vrbo.com/lodging/102000000/101170000/101166200/101166141/cb9598d3.jpg"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/proxy/qwjbnJMZUi3UFIGccYo4PZPSHn6K5UGCR3ktJrgCBL3Hh0j6U0IQqphox56cchdvdl2z48bCZtIHWWs6oOlyYHd4UO_X-J4kmrQwbGctrnmAFAo04lOcqVhdkXiLO9E_nllGjHMu7iBmAxY5EkoFGUlc2DRivg=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://media.vrbo.com/lodging/102000000/101170000/101166200/101166141/72cc8e1a.jpg"
+                }
+            ],
+            "overall_rating": 5,
+            "reviews": 3,
+            "location_rating": 4.0,
+            "amenities": [
+                "Air conditioning",
+                "Kitchen",
+                "Smoke-free",
+                "Free parking",
+                "Free Wi-Fi"
+            ],
+            "excluded_amenities": [
+                "No indoor pool",
+                "No outdoor pool",
+                "Not pet-friendly"
+            ],
+            "essential_info": [
+                "Entire house",
+                "Sleeps 4",
+                "1 bedroom",
+                "2 bathrooms",
+                "1 bed"
+            ],
+            "property_token": "ChoQ7Mjfzte4wK25ARoNL2cvMTFsZHhkNjVqYxAC",
+            "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2024-10-31&check_out_date=2024-11-05&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&property_token=ChoQ7Mjfzte4wK25ARoNL2cvMTFsZHhkNjVqYxAC&q=Coffee"
+        },
+        {
+            "type": "hotel",
+            "name": "The Heathman Lodge",
+            "description": "Casual hotel with a mountain-lodge vibe, plus an indoor pool, a fitness center & event space.",
+            "link": "https://www.heathmanlodge.com/?utm_source=GMB&utm_medium=Yext",
+            "gps_coordinates": {
+                "latitude": 45.653722699999996,
+                "longitude": -122.59215719999999
+            },
+            "check_in_time": "4:00\u202fPM",
+            "check_out_time": "12:00\u202fPM",
+            "rate_per_night": {
+                "lowest": "$129",
+                "extracted_lowest": 129,
+                "before_taxes_fees": "$103",
+                "extracted_before_taxes_fees": 103
+            },
+            "total_rate": {
+                "lowest": "$643",
+                "extracted_lowest": 643,
+                "before_taxes_fees": "$517",
+                "extracted_before_taxes_fees": 517
+            },
+            "nearby_places": [
+                {
+                    "name": "Van Mall Dr & 77th Ave",
+                    "transportations": [
+                        {
+                            "type": "Walking",
+                            "duration": "9 min"
+                        }
+                    ]
+                },
+                {
+                    "name": "Portland International Airport",
+                    "transportations": [
+                        {
+                            "type": "Taxi",
+                            "duration": "16 min"
+                        },
+                        {
+                            "type": "Public transport",
+                            "duration": "1 hr 19 min"
+                        }
+                    ]
+                }
+            ],
+            "hotel_class": "3-star hotel",
+            "extracted_hotel_class": 3,
+            "images": [
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOgxFj1fZUaY5dite4Y0XwrE_0DJ3cCjUGgJ5b7=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipOgxFj1fZUaY5dite4Y0XwrE_0DJ3cCjUGgJ5b7=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNdkPYAbj0pq1uTOagG5T8Em2FXqOF0FnW9ycqy=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipNdkPYAbj0pq1uTOagG5T8Em2FXqOF0FnW9ycqy=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/proxy/SBkRiwlnRA-RU2oFrufJ8vqzp9dXYHXCPqv3JpBcWx1uy9CUbF7P1Zgp_omXUb1vZCqXJKIahjupve2iwyxcW_v6VLGogasIc2lEzxWMBF_gbPRqJDWz6IvwCQjggdZ8qeR79h02DPX4fkMZM9H1jqDuMkoppok=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://photos.hotelbeds.com/giata/original/35/354177/354177a_hb_ro_002.jpg"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNXZDr_pfWqRLg8x3Hcmwj_TYgJz5X8feDY-6GI=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipNXZDr_pfWqRLg8x3Hcmwj_TYgJz5X8feDY-6GI=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN_h7ZnuVf5QZrB62mRBbLQcxQXMn2IPjt3fscO=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipN_h7ZnuVf5QZrB62mRBbLQcxQXMn2IPjt3fscO=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM0rjaSogXRttWXxXWAutpScoNDru7XRboZSWoV=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipM0rjaSogXRttWXxXWAutpScoNDru7XRboZSWoV=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP1lIF5JfHZ4JFXGC8hhVuGCE-eaqWnfYyckSTa=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipP1lIF5JfHZ4JFXGC8hhVuGCE-eaqWnfYyckSTa=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMu7bzDRwPaVealD1tA-kawQ4uD3QuJ27XMHJZf=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipMu7bzDRwPaVealD1tA-kawQ4uD3QuJ27XMHJZf=s10000"
+                },
+                {
+                    "thumbnail": "https://lh6.googleusercontent.com/proxy/UzyvIH4hiPCKMA2in7Qt8qo3nmNiOOqcx4vDGt-UpK9Vd1e0dO_OD5FpwOSRNHKJ1zKbGQECAedjvk20oUJkQWWECc7kWv0IZfrD2nhyL7RhrIDYeQVqyrpaMVNUJI4hrftEEvUHecUUflAkSE1o7gU2GVxd3WsII8FgKYyebA=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/c8YXRLZUoiIAAAQvOrITCA=s10000"
+                }
+            ],
+            "overall_rating": 4.4,
+            "reviews": 2803,
+            "ratings": [
+                {
+                    "stars": 5,
+                    "count": 1795
+                },
+                {
+                    "stars": 4,
+                    "count": 635
+                },
+                {
+                    "stars": 3,
+                    "count": 173
+                },
+                {
+                    "stars": 2,
+                    "count": 94
+                },
+                {
+                    "stars": 1,
+                    "count": 106
+                }
+            ],
+            "location_rating": 3.9,
+            "reviews_breakdown": [
+                {
+                    "name": "Couples",
+                    "description": "Couple friendly",
+                    "total_mentioned": 55,
+                    "positive": 45,
+                    "negative": 7,
+                    "neutral": 3
+                },
+                {
+                    "name": "Wellness",
+                    "description": "Wellness",
+                    "total_mentioned": 30,
+                    "positive": 19,
+                    "negative": 7,
+                    "neutral": 4
+                },
+                {
+                    "name": "Bar",
+                    "description": "Bar or lounge",
+                    "total_mentioned": 170,
+                    "positive": 136,
+                    "negative": 21,
+                    "neutral": 13
+                },
+                {
+                    "name": "Spa",
+                    "description": "Spa",
+                    "total_mentioned": 24,
+                    "positive": 15,
+                    "negative": 6,
+                    "neutral": 3
+                },
+                {
+                    "name": "Dining",
+                    "description": "Food and Beverage",
+                    "total_mentioned": 365,
+                    "positive": 285,
+                    "negative": 51,
+                    "neutral": 29
+                },
+                {
+                    "name": "Hot Tub",
+                    "description": "Hot tub",
+                    "total_mentioned": 51,
+                    "positive": 34,
+                    "negative": 12,
+                    "neutral": 5
+                }
+            ],
+            "amenities": [
+                "Breakfast ($)",
+                "Free Wi-Fi",
+                "Indoor pool",
+                "Hot tub",
+                "Air conditioning",
+                "Pet-friendly",
+                "Fitness centre",
+                "Spa",
+                "Bar",
+                "Restaurant",
+                "Room service",
+                "Full-service laundry",
+                "Accessible",
+                "Business centre",
+                "Child-friendly",
+                "Smoke-free property"
+            ],
+            "property_token": "ChcIheDC8paoxrJBGgsvZy8xdGQzMnJ5MRAB",
+            "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2024-10-31&check_out_date=2024-11-05&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&property_token=ChcIheDC8paoxrJBGgsvZy8xdGQzMnJ5MRAB&q=Coffee"
+        },
+        {
+            "type": "hotel",
+            "name": "ilani",
+            "description": "Busy casino resort with concerts, trade shows & dining, operated by the Cowlitz Indian Tribe.",
+            "link": "https://ilaniresort.com/",
+            "gps_coordinates": {
+                "latitude": 45.853042599999995,
+                "longitude": -122.70742790000001
+            },
+            "check_in_time": "4:00\u202fPM",
+            "check_out_time": "11:00\u202fAM",
+            "rate_per_night": {
+                "lowest": "$355",
+                "extracted_lowest": 355,
+                "before_taxes_fees": "$319",
+                "extracted_before_taxes_fees": 319
+            },
+            "total_rate": {
+                "lowest": "$1,777",
+                "extracted_lowest": 1777,
+                "before_taxes_fees": "$1,595",
+                "extracted_before_taxes_fees": 1595
+            },
+            "nearby_places": [
+                {
+                    "name": "Ridgefield National Wildlife Refuge",
+                    "transportations": [
+                        {
+                            "type": "Taxi",
+                            "duration": "7 min"
+                        }
+                    ]
+                },
+                {
+                    "name": "Cowlitz Way at ilani",
+                    "transportations": [
+                        {
+                            "type": "Walking",
+                            "duration": "6 min"
+                        }
+                    ]
+                },
+                {
+                    "name": "Portland International Airport",
+                    "transportations": [
+                        {
+                            "type": "Taxi",
+                            "duration": "28 min"
+                        },
+                        {
+                            "type": "Public transport",
+                            "duration": "2 hr 41 min"
+                        }
+                    ]
+                },
+                {
+                    "name": "I.Talia",
+                    "transportations": [
+                        {
+                            "type": "Walking",
+                            "duration": "1 min"
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPJBhzp9WycNULKdStUCnVft1RSM9rjPnY7csXg=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipPJBhzp9WycNULKdStUCnVft1RSM9rjPnY7csXg=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM1l0ASa30iY3Dqq7OD1FbZ3qEgVPWBYQmoBPGU=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipM1l0ASa30iY3Dqq7OD1FbZ3qEgVPWBYQmoBPGU=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO0J2RcRRJYbU7PiCHHTfJqkvJr3IkrnD3o1b4n=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipO0J2RcRRJYbU7PiCHHTfJqkvJr3IkrnD3o1b4n=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMu7EpIkP4-WOgAy2egQYlbOmvvQWtqobW9VFQJ=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipMu7EpIkP4-WOgAy2egQYlbOmvvQWtqobW9VFQJ=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP8vzYYhjudJsXxKCAKCLDAJqdvSZgCg7N75gXK=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipP8vzYYhjudJsXxKCAKCLDAJqdvSZgCg7N75gXK=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPm_dlklHIAKVFEwUor8Ty65xqiKneyQvBECIqT=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipPm_dlklHIAKVFEwUor8Ty65xqiKneyQvBECIqT=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNJ4CBe9pFFHa6Gprt6bbAgK883aAqvkj6MBtc5=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipNJ4CBe9pFFHa6Gprt6bbAgK883aAqvkj6MBtc5=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMqp4BCsF9Z9aujABaquzj6Lc5fxAH5ek3a-pKc=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipMqp4BCsF9Z9aujABaquzj6Lc5fxAH5ek3a-pKc=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMZpvvkyd1_xvyaK3MHBVwbkl7xTW47a3TwQHfZ=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipMZpvvkyd1_xvyaK3MHBVwbkl7xTW47a3TwQHfZ=s10000"
+                }
+            ],
+            "overall_rating": 4.1,
+            "reviews": 20254,
+            "ratings": [
+                {
+                    "stars": 5,
+                    "count": 10533
+                },
+                {
+                    "stars": 4,
+                    "count": 4691
+                },
+                {
+                    "stars": 3,
+                    "count": 2472
+                },
+                {
+                    "stars": 2,
+                    "count": 1080
+                },
+                {
+                    "stars": 1,
+                    "count": 1478
+                }
+            ],
+            "location_rating": 3.6,
+            "reviews_breakdown": [
+                {
+                    "name": "Nightlife",
+                    "description": "Nightlife",
+                    "total_mentioned": 3628,
+                    "positive": 2422,
+                    "negative": 767,
+                    "neutral": 439
+                },
+                {
+                    "name": "Property",
+                    "description": "Property",
+                    "total_mentioned": 1554,
+                    "positive": 1293,
+                    "negative": 181,
+                    "neutral": 80
+                },
+                {
+                    "name": "Cleanliness",
+                    "description": "Cleanliness",
+                    "total_mentioned": 1248,
+                    "positive": 1104,
+                    "negative": 97,
+                    "neutral": 47
+                },
+                {
+                    "name": "Pets",
+                    "description": "Pets",
+                    "total_mentioned": 22,
+                    "positive": 3,
+                    "negative": 16,
+                    "neutral": 3
+                },
+                {
+                    "name": "Kitchen",
+                    "description": "Kitchen",
+                    "total_mentioned": 38,
+                    "positive": 12,
+                    "negative": 21,
+                    "neutral": 5
+                }
+            ],
+            "property_token": "ChoI4Ki1n9KWouv5ARoNL2cvMTFkeHN2ZmgwZhAB",
+            "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2024-10-31&check_out_date=2024-11-05&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&property_token=ChoI4Ki1n9KWouv5ARoNL2cvMTFkeHN2ZmgwZhAB&q=Coffee"
+        },
+        {
+            "type": "hotel",
+            "name": "Camas Boutique Hotel",
+            "description": "Casual 1911 lodging offering elegantly simple quarters, some with shared bathrooms, plus free Wi-Fi.",
+            "link": "http://www.camasboutiquehotel.com/",
+            "gps_coordinates": {
+                "latitude": 45.5860189,
+                "longitude": -122.4040067
+            },
+            "check_in_time": "3:00\u202fPM",
+            "check_out_time": "11:00\u202fAM",
+            "rate_per_night": {
+                "lowest": "$94",
+                "extracted_lowest": 94,
+                "before_taxes_fees": "$80",
+                "extracted_before_taxes_fees": 80
+            },
+            "total_rate": {
+                "lowest": "$472",
+                "extracted_lowest": 472,
+                "before_taxes_fees": "$399",
+                "extracted_before_taxes_fees": 399
+            },
+            "nearby_places": [
+                {
+                    "name": "Lacamas Lake",
+                    "transportations": [
+                        {
+                            "type": "Taxi",
+                            "duration": "7 min"
+                        }
+                    ]
+                },
+                {
+                    "name": "Adams St & 5th Ave",
+                    "transportations": [
+                        {
+                            "type": "Walking",
+                            "duration": "4 min"
+                        }
+                    ]
+                },
+                {
+                    "name": "Portland International Airport",
+                    "transportations": [
+                        {
+                            "type": "Taxi",
+                            "duration": "20 min"
+                        },
+                        {
+                            "type": "Public transport",
+                            "duration": "47 min"
+                        }
+                    ]
+                },
+                {
+                    "name": "Tommy O's @ The Camas Hotel",
+                    "transportations": [
+                        {
+                            "type": "Walking",
+                            "duration": "1 min"
+                        }
+                    ]
+                }
+            ],
+            "hotel_class": "3-star hotel",
+            "extracted_hotel_class": 3,
+            "images": [
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/proxy/td38zExx6QcBR5CBzu2Ky8pRq6LcDZKaAMoCdR1HyQMVMHvFrDLya2HHWeLAqBHaqSdoUxG0oYcPIrWorT26iUH_sYDHoA5KWXqDwy012VYoLfL_mGP0JtcsJ9G8olMFHFFDiYqsqvNIvwcAExLNrp9nJA3FDJsC9vZF17NDHw=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/YSBeW6tq0vkAAAQo8CuQRQ=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNZJuOp6WsXqMyGQ74_WnKjoyPxHmeQHlf41t6v=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipNZJuOp6WsXqMyGQ74_WnKjoyPxHmeQHlf41t6v=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPFMQlSq2mnOfgbTKgM4RuZdu5Po8Yf8_8ZNBYV=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipPFMQlSq2mnOfgbTKgM4RuZdu5Po8Yf8_8ZNBYV=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMWsB-t-RP4XkabtH30-7Z13s35MI3zBTBJzLLy=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipMWsB-t-RP4XkabtH30-7Z13s35MI3zBTBJzLLy=s10000"
+                },
+                {
+                    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=tLkXhMyzdmMAAAQo8CuV2g&cb_client=search.estubs.gps&w=287&h=192&yaw=324.5049&pitch=0&thumbfov=100&scale=2",
+                    "original_image": "https://lh5.googleusercontent.com/p/tLkXhMyzdmMAAAQo8CuV2g=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMwovm-AX86orGhV4Cv-tovXLUGhhIqr3zbPjfD=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipMwovm-AX86orGhV4Cv-tovXLUGhhIqr3zbPjfD=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOsUNu5gyu40JD8yU0KlluO5WbSdLGQwDJty-NF=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipOsUNu5gyu40JD8yU0KlluO5WbSdLGQwDJty-NF=s10000"
+                },
+                {
+                    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7ILFkALdN1oAAAQo8CeqAg&cb_client=search.estubs.gps&w=287&h=192&yaw=4.356336&pitch=15&thumbfov=100&scale=2",
+                    "original_image": "https://lh5.googleusercontent.com/p/7ILFkALdN1oAAAQo8CeqAg=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNJMkKGLMHIhKDw4alocx58C8djOAa5ChhQnbmg=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipNJMkKGLMHIhKDw4alocx58C8djOAa5ChhQnbmg=s10000"
+                }
+            ],
+            "overall_rating": 4.4,
+            "reviews": 469,
+            "ratings": [
+                {
+                    "stars": 5,
+                    "count": 318
+                },
+                {
+                    "stars": 4,
+                    "count": 79
+                },
+                {
+                    "stars": 3,
+                    "count": 31
+                },
+                {
+                    "stars": 2,
+                    "count": 18
+                },
+                {
+                    "stars": 1,
+                    "count": 23
+                }
+            ],
+            "location_rating": 3.7,
+            "reviews_breakdown": [
+                {
+                    "name": "Property",
+                    "description": "Property",
+                    "total_mentioned": 215,
+                    "positive": 178,
+                    "negative": 26,
+                    "neutral": 11
+                },
+                {
+                    "name": "Service",
+                    "description": "Service",
+                    "total_mentioned": 140,
+                    "positive": 112,
+                    "negative": 25,
+                    "neutral": 3
+                },
+                {
+                    "name": "Location",
+                    "description": "Location",
+                    "total_mentioned": 86,
+                    "positive": 80,
+                    "negative": 4,
+                    "neutral": 2
+                },
+                {
+                    "name": "Accessibility",
+                    "description": "Accessibility",
+                    "total_mentioned": 19,
+                    "positive": 2,
+                    "negative": 10,
+                    "neutral": 7
+                }
+            ],
+            "amenities": [
+                "Breakfast ($)",
+                "Free Wi-Fi",
+                "Free parking",
+                "Air conditioning",
+                "Pet-friendly",
+                "Bar",
+                "Restaurant",
+                "Business centre",
+                "Smoke-free property"
+            ],
+            "property_token": "ChgIvKKmkrm-gMKOARoLL2cvMXRyeGRkemMQAQ",
+            "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2024-10-31&check_out_date=2024-11-05&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&property_token=ChgIvKKmkrm-gMKOARoLL2cvMXRyeGRkemMQAQ&q=Coffee"
+        },
+        {
+            "type": "hotel",
+            "name": "Quality Inn & Suites Vancouver North",
+            "description": "Low-key hotel offering an indoor pool & a hot tub, plus complimentary Wi-Fi & breakfast.",
+            "link": "https://www.choicehotels.com/washington/vancouver/quality-inn-hotels/wa035?mc=llgoxxpx",
+            "gps_coordinates": {
+                "latitude": 45.717078,
+                "longitude": -122.65085140000001
+            },
+            "check_in_time": "3:00\u202fPM",
+            "check_out_time": "11:00\u202fAM",
+            "rate_per_night": {
+                "lowest": "$83",
+                "extracted_lowest": 83,
+                "before_taxes_fees": "$74",
+                "extracted_before_taxes_fees": 74
+            },
+            "total_rate": {
+                "lowest": "$413",
+                "extracted_lowest": 413,
+                "before_taxes_fees": "$369",
+                "extracted_before_taxes_fees": 369
+            },
+            "nearby_places": [
+                {
+                    "name": "Clark County Historical Museum",
+                    "transportations": [
+                        {
+                            "type": "Taxi",
+                            "duration": "10 min"
+                        }
+                    ]
+                },
+                {
+                    "name": "Hwy 99 & 129th St",
+                    "transportations": [
+                        {
+                            "type": "Walking",
+                            "duration": "4 min"
+                        }
+                    ]
+                },
+                {
+                    "name": "Portland International Airport",
+                    "transportations": [
+                        {
+                            "type": "Taxi",
+                            "duration": "20 min"
+                        },
+                        {
+                            "type": "Public transport",
+                            "duration": "1 hr 50 min"
+                        }
+                    ]
+                },
+                {
+                    "name": "Muchas Gracias",
+                    "transportations": [
+                        {
+                            "type": "Walking",
+                            "duration": "3 min"
+                        }
+                    ]
+                }
+            ],
+            "hotel_class": "2-star hotel",
+            "extracted_hotel_class": 2,
+            "images": [
+                {
+                    "thumbnail": "https://lh4.googleusercontent.com/proxy/t2hu9nvDZMuHpg9T_bRgyq3ydt4OuylKb2IcYyrxixQx1sxXvhfGp_2DKQOqpw2g5I5f1qmqEQREe_pgmLCwMkC6c0FwKs37yNo9EMSzpQcpqpVLRi1tGLJAz7mu6SDc22oDmtOccyO_jP31sQxztkN15d1F6ro=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://images.trvl-media.com/lodging/1000000/30000/24300/24238/ca53d3d3_z.jpg"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOEhsKyeTtrWC8OBQ1OvHT8_FdsPpgwdGOAunLm=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipOEhsKyeTtrWC8OBQ1OvHT8_FdsPpgwdGOAunLm=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMEIaKB7M32UrUGBxhg6sXWdbRR7N59IbwjCNSw=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipMEIaKB7M32UrUGBxhg6sXWdbRR7N59IbwjCNSw=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMFWU8t-ANCQIkduwbOa6Hvr0kHqkP9YWUNA4Rv=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipMFWU8t-ANCQIkduwbOa6Hvr0kHqkP9YWUNA4Rv=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNBtXJAiv7xXLDO-n-iTOahtZKVIeuk6F8z8HXx=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipNBtXJAiv7xXLDO-n-iTOahtZKVIeuk6F8z8HXx=s10000"
+                },
+                {
+                    "thumbnail": "https://lh4.googleusercontent.com/proxy/W8T43Ds_iFKbDLMZOieo5SNI7RFh-3ugMZlQWNspEPM0pDuWc-eCwq9cVQitNXgeSrjCmhZHPuEemGs5EiOn1us4hUjX0rzJOVLSWI45anw1FSi_6P3kxYogItvnvN2dODlfeVO0uqvrAMSjXC8go2Gu3FX9KGo=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://images.trvl-media.com/lodging/1000000/30000/24300/24238/9fd0c3f7_z.jpg"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/proxy/HnUUfjYEtvlMnlVzSg-SZ1nMixsCWvcqHOKZZzbSXp4W_cFfepog9zxhiWUCvuZBAn94OzBpYoT4DtoTwnMLMpPxIt9b8AR5VtFMdNvIC33jDQikxoDzGlFcMoOeK7-yDu-W7ZL1jt2ZbjFubKD0cRFfISJjQIo=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/ce/7f/e0/20160402-074026-largejpg.jpg?w=1300&h=1000&s=1"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNHEwPsq3VBcKQwSC6BYiC8IeN13tCnK3lz7hxv=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipNHEwPsq3VBcKQwSC6BYiC8IeN13tCnK3lz7hxv=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNn-rZeI1tlTc4rcBSDW-NWOi8sp0XMCfFUlPS7=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipNn-rZeI1tlTc4rcBSDW-NWOi8sp0XMCfFUlPS7=s10000"
+                }
+            ],
+            "overall_rating": 4,
+            "reviews": 549,
+            "ratings": [
+                {
+                    "stars": 5,
+                    "count": 235
+                },
+                {
+                    "stars": 4,
+                    "count": 163
+                },
+                {
+                    "stars": 3,
+                    "count": 83
+                },
+                {
+                    "stars": 2,
+                    "count": 25
+                },
+                {
+                    "stars": 1,
+                    "count": 43
+                }
+            ],
+            "location_rating": 3.7,
+            "reviews_breakdown": [
+                {
+                    "name": "Breakfast",
+                    "description": "Breakfast",
+                    "total_mentioned": 85,
+                    "positive": 47,
+                    "negative": 28,
+                    "neutral": 10
+                },
+                {
+                    "name": "Restaurant",
+                    "description": "Restaurant",
+                    "total_mentioned": 46,
+                    "positive": 25,
+                    "negative": 17,
+                    "neutral": 4
+                },
+                {
+                    "name": "Fitness",
+                    "description": "Fitness",
+                    "total_mentioned": 41,
+                    "positive": 28,
+                    "negative": 9,
+                    "neutral": 4
+                },
+                {
+                    "name": "Pets",
+                    "description": "Pets",
+                    "total_mentioned": 21,
+                    "positive": 13,
+                    "negative": 4,
+                    "neutral": 4
+                },
+                {
+                    "name": "Accessibility",
+                    "description": "Accessibility",
+                    "total_mentioned": 22,
+                    "positive": 5,
+                    "negative": 15,
+                    "neutral": 2
+                },
+                {
+                    "name": "Family",
+                    "description": "Family friendly",
+                    "total_mentioned": 14,
+                    "positive": 9,
+                    "negative": 4,
+                    "neutral": 1
+                }
+            ],
+            "amenities": [
+                "Free breakfast",
+                "Free Wi-Fi",
+                "Free parking",
+                "Indoor pool",
+                "Hot tub",
+                "Air conditioning",
+                "Pet-friendly",
+                "Restaurant",
+                "Golf",
+                "Accessible",
+                "Business centre",
+                "Child-friendly",
+                "Smoke-free property"
+            ],
+            "property_token": "ChgI8fW5gJK4spnEARoLL2cvMXRjeWY1Y3kQAQ",
+            "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2024-10-31&check_out_date=2024-11-05&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&property_token=ChgI8fW5gJK4spnEARoLL2cvMXRjeWY1Y3kQAQ&q=Coffee"
+        },
+        {
+            "type": "hotel",
+            "name": "McMenamins Kennedy School",
+            "description": "Offbeat hotel in a restored elementary school with an outdoor pool, a movie theater & multiple bars.",
+            "link": "https://www.mcmenamins.com/kennedy-school?utm_source=Google%20Maps&utm_medium=Website%20Button&utm_campaign=Kennedy%20School",
+            "gps_coordinates": {
+                "latitude": 45.564491000000004,
+                "longitude": -122.63000600000001
+            },
+            "check_in_time": "3:00\u202fPM",
+            "check_out_time": "11:00\u202fAM",
+            "nearby_places": [
+                {
+                    "name": "NE 33rd & Jarrett",
+                    "transportations": [
+                        {
+                            "type": "Walking",
+                            "duration": "1 min"
+                        }
+                    ]
+                },
+                {
+                    "name": "Portland International Airport",
+                    "transportations": [
+                        {
+                            "type": "Taxi",
+                            "duration": "16 min"
+                        },
+                        {
+                            "type": "Public transport",
+                            "duration": "58 min"
+                        }
+                    ]
+                },
+                {
+                    "name": "Wilder",
+                    "transportations": [
+                        {
+                            "type": "Walking",
+                            "duration": "8 min"
+                        }
+                    ]
+                }
+            ],
+            "hotel_class": "3-star hotel",
+            "extracted_hotel_class": 3,
+            "images": [
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNzJUCCNjPC53tRKlFAe4k_3ZoQxWyYysmhrUMd=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipNzJUCCNjPC53tRKlFAe4k_3ZoQxWyYysmhrUMd=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOFX7TTeiDaxVcZclondWG-6bjaxXMtqPHka05E=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipOFX7TTeiDaxVcZclondWG-6bjaxXMtqPHka05E=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOyHVoSnKn56PP3THL98bJNk48GBobadhpILUSV=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipOyHVoSnKn56PP3THL98bJNk48GBobadhpILUSV=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPwyXFWWOF5GLDaMQnTaPSPSJvjhmMUEGtsM9MH=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipPwyXFWWOF5GLDaMQnTaPSPSJvjhmMUEGtsM9MH=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPshL0JHEijlOO4xP_E1rZnfdBwk7g95HRaajMK=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipPshL0JHEijlOO4xP_E1rZnfdBwk7g95HRaajMK=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNEOc0it2gZxBcWoprGGVCigR1d5OuldwPG8vls=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipNEOc0it2gZxBcWoprGGVCigR1d5OuldwPG8vls=s10000"
+                },
+                {
+                    "thumbnail": "https://lh4.googleusercontent.com/proxy/CyR7ZGeV_Vpse44oNeUTbNYdcTJfcR-n1SgFxtjsnTvNE6lE8oDpBsQ0whj8gySHmsiHTbXDUEOTZRoXdfcuuBHi5jBJtU6IdIIiP9aOsB-60Fnx6Liv_O6EiAGsiv7pxoRYjMzMNqns9MjysRExixSW_a-dng=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://images.trvl-media.com/lodging/13000000/12410000/12407000/12406990/ff3e70cb_z.jpg"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO97sWjxv2mDZ8_S78jF5Vo0T09V1T1syiD-jWP=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipO97sWjxv2mDZ8_S78jF5Vo0T09V1T1syiD-jWP=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMXjTYNa3CQD8xZ79LVJL2R9VBF5P4D72rKzjVR=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipMXjTYNa3CQD8xZ79LVJL2R9VBF5P4D72rKzjVR=s10000"
+                }
+            ],
+            "overall_rating": 4.6,
+            "reviews": 8235,
+            "ratings": [
+                {
+                    "stars": 5,
+                    "count": 5600
+                },
+                {
+                    "stars": 4,
+                    "count": 1969
+                },
+                {
+                    "stars": 3,
+                    "count": 438
+                },
+                {
+                    "stars": 2,
+                    "count": 123
+                },
+                {
+                    "stars": 1,
+                    "count": 105
+                }
+            ],
+            "location_rating": 3.9,
+            "reviews_breakdown": [
+                {
+                    "name": "Bar",
+                    "description": "Bar or lounge",
+                    "total_mentioned": 1691,
+                    "positive": 1406,
+                    "negative": 120,
+                    "neutral": 165
+                },
+                {
+                    "name": "Dining",
+                    "description": "Food and Beverage",
+                    "total_mentioned": 1774,
+                    "positive": 1385,
+                    "negative": 202,
+                    "neutral": 187
+                },
+                {
+                    "name": "Fitness",
+                    "description": "Fitness",
+                    "total_mentioned": 701,
+                    "positive": 573,
+                    "negative": 53,
+                    "neutral": 75
+                },
+                {
+                    "name": "Nightlife",
+                    "description": "Nightlife",
+                    "total_mentioned": 619,
+                    "positive": 509,
+                    "negative": 34,
+                    "neutral": 76
+                },
+                {
+                    "name": "Pool",
+                    "description": "Pool",
+                    "total_mentioned": 341,
+                    "positive": 301,
+                    "negative": 21,
+                    "neutral": 19
+                },
+                {
+                    "name": "Breakfast",
+                    "description": "Breakfast",
+                    "total_mentioned": 551,
+                    "positive": 481,
+                    "negative": 37,
+                    "neutral": 33
+                }
+            ],
+            "amenities": [
+                "Breakfast ($)",
+                "Wi-Fi",
+                "Free parking",
+                "Pool",
+                "Air conditioning",
+                "Pet-friendly",
+                "Bar",
+                "Restaurant",
+                "Room service",
+                "Accessible",
+                "Child-friendly",
+                "Smoke-free property"
+            ],
+            "property_token": "ChYI4Jv-zK_FqYNAGgovbS8wZ2t5bTBoEAE",
+            "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2024-10-31&check_out_date=2024-11-05&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&property_token=ChYI4Jv-zK_FqYNAGgovbS8wZ2t5bTBoEAE&q=Coffee"
+        },
+        {
+            "type": "hotel",
+            "name": "Home2 Suites by Hilton Portland Airport OR",
+            "description": "Colorful quarters with kitchens in a relaxed hotel featuring an indoor pool, a gym & free breakfast.",
+            "link": "https://www.hilton.com/en/hotels/pdxaiht-home2-suites-portland-airport-or/?SEO_id=GMB-AMER-HT-PDXAIHT&y_source=1_MTI5ODI1MDQtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "gps_coordinates": {
+                "latitude": 45.573891,
+                "longitude": -122.578686
+            },
+            "check_in_time": "3:00\u202fPM",
+            "check_out_time": "11:00\u202fAM",
+            "rate_per_night": {
+                "lowest": "$116",
+                "extracted_lowest": 116,
+                "before_taxes_fees": "$100",
+                "extracted_before_taxes_fees": 100
+            },
+            "total_rate": {
+                "lowest": "$580",
+                "extracted_lowest": 580,
+                "before_taxes_fees": "$500",
+                "extracted_before_taxes_fees": 500
+            },
+            "deal": "19% less than usual",
+            "deal_description": "Deal",
+            "nearby_places": [
+                {
+                    "name": "The Grotto",
+                    "transportations": [
+                        {
+                            "type": "Taxi",
+                            "duration": "6 min"
+                        }
+                    ]
+                },
+                {
+                    "name": "Red Lion Sky Chiefs",
+                    "transportations": [
+                        {
+                            "type": "Walking",
+                            "duration": "3 min"
+                        }
+                    ]
+                },
+                {
+                    "name": "Portland International Airport",
+                    "transportations": [
+                        {
+                            "type": "Taxi",
+                            "duration": "8 min"
+                        },
+                        {
+                            "type": "Public transport",
+                            "duration": "20 min"
+                        }
+                    ]
+                },
+                {
+                    "name": "The Country Cat",
+                    "transportations": [
+                        {
+                            "type": "Taxi",
+                            "duration": "7 min"
+                        }
+                    ]
+                }
+            ],
+            "hotel_class": "3-star hotel",
+            "extracted_hotel_class": 3,
+            "images": [
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPEdeIMJDvPpi0HbAbJjOJlOG2sK09i3TOPt7us=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipPEdeIMJDvPpi0HbAbJjOJlOG2sK09i3TOPt7us=s10000"
+                },
+                {
+                    "thumbnail": "https://lh6.googleusercontent.com/proxy/mjD5Z3ZfqqVuRMuwroucfgZIe0FwmJF683Mg-HhdY7sKuJQ_j5xGPT9kGPMrMXTkDN0ujj0rtFRLGfNxDKaek3rFtnnuuQr8iBRvTt3YvSrSz5YXINS8eUT8iQTCN2VPRi5hUXX0BIa1MIV_uz4zxUEDLPLopA=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://images.trvl-media.com/lodging/37000000/36720000/36714500/36714438/a10d77cc_z.jpg"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM_i1apJhcfxHvSYyi0namPVZMNsbAHF2a-v_pR=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipM_i1apJhcfxHvSYyi0namPVZMNsbAHF2a-v_pR=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMqQXJ3mhwP9FSVcProBNeZLEqibTdVXmbM5Oqi=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipMqQXJ3mhwP9FSVcProBNeZLEqibTdVXmbM5Oqi=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOUOb6O_O4b_TI5cLnqoBL3Y2f8FxAH2EYAXfGt=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipOUOb6O_O4b_TI5cLnqoBL3Y2f8FxAH2EYAXfGt=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNGoc1mzh9m5m_W0ewZcwqPeTDUI1QeUoUctWSs=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipNGoc1mzh9m5m_W0ewZcwqPeTDUI1QeUoUctWSs=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN27gNVEj8qxY_0fkhvU_Vcx1ouEOCjxjut8Kyy=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipN27gNVEj8qxY_0fkhvU_Vcx1ouEOCjxjut8Kyy=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOYos4h3AcUEMgJMedM0M9BKCGSUkejroBaOM2D=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipOYos4h3AcUEMgJMedM0M9BKCGSUkejroBaOM2D=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMpaF5YBZdITFTHDf6zFqayqbnk0ExwrxsIsy1s=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipMpaF5YBZdITFTHDf6zFqayqbnk0ExwrxsIsy1s=s10000"
+                }
+            ],
+            "overall_rating": 3.9,
+            "reviews": 302,
+            "ratings": [
+                {
+                    "stars": 5,
+                    "count": 152
+                },
+                {
+                    "stars": 4,
+                    "count": 68
+                },
+                {
+                    "stars": 3,
+                    "count": 27
+                },
+                {
+                    "stars": 2,
+                    "count": 17
+                },
+                {
+                    "stars": 1,
+                    "count": 38
+                }
+            ],
+            "location_rating": 3.1,
+            "reviews_breakdown": [
+                {
+                    "name": "Breakfast",
+                    "description": "Breakfast",
+                    "total_mentioned": 34,
+                    "positive": 16,
+                    "negative": 12,
+                    "neutral": 6
+                },
+                {
+                    "name": "Transit",
+                    "description": "Public transit",
+                    "total_mentioned": 28,
+                    "positive": 18,
+                    "negative": 7,
+                    "neutral": 3
+                },
+                {
+                    "name": "Fitness",
+                    "description": "Fitness",
+                    "total_mentioned": 19,
+                    "positive": 10,
+                    "negative": 8,
+                    "neutral": 1
+                },
+                {
+                    "name": "Restaurant",
+                    "description": "Restaurant",
+                    "total_mentioned": 19,
+                    "positive": 10,
+                    "negative": 7,
+                    "neutral": 2
+                },
+                {
+                    "name": "Parking",
+                    "description": "Parking",
+                    "total_mentioned": 29,
+                    "positive": 7,
+                    "negative": 17,
+                    "neutral": 5
+                },
+                {
+                    "name": "Kitchen",
+                    "description": "Kitchen",
+                    "total_mentioned": 25,
+                    "positive": 14,
+                    "negative": 8,
+                    "neutral": 3
+                }
+            ],
+            "amenities": [
+                "Free breakfast",
+                "Free Wi-Fi",
+                "Free parking",
+                "Indoor pool",
+                "Air conditioning",
+                "Pet-friendly",
+                "Fitness centre",
+                "Kitchen in rooms",
+                "Airport shuttle",
+                "Accessible",
+                "Business centre",
+                "Child-friendly",
+                "Smoke-free property"
+            ],
+            "eco_certified": true,
+            "property_token": "ChoI2enykvnFsrTmARoNL2cvMTFoeWZ3c2pkORAB",
+            "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2024-10-31&check_out_date=2024-11-05&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&property_token=ChoI2enykvnFsrTmARoNL2cvMTFoeWZ3c2pkORAB&q=Coffee"
+        },
+        {
+            "type": "hotel",
+            "name": "Country Inn & Suites by Radisson, Delta Park North Portland",
+            "description": "Low-key hotel offering free breakfast, Internet access & an airport shuttle, plus a gym.",
+            "link": "https://www.choicehotels.com/oregon/portland/country-inn-suites-hotels/or233?mc=llgoxxpx",
+            "gps_coordinates": {
+                "latitude": 45.5948394,
+                "longitude": -122.6811841
+            },
+            "check_in_time": "3:00\u202fPM",
+            "check_out_time": "12:00\u202fPM",
+            "rate_per_night": {
+                "lowest": "$81",
+                "extracted_lowest": 81,
+                "before_taxes_fees": "$69",
+                "extracted_before_taxes_fees": 69
+            },
+            "total_rate": {
+                "lowest": "$405",
+                "extracted_lowest": 405,
+                "before_taxes_fees": "$345",
+                "extracted_before_taxes_fees": 345
+            },
+            "deal": "16% less than usual",
+            "deal_description": "Deal",
+            "nearby_places": [
+                {
+                    "name": "Powell's City of Books",
+                    "transportations": [
+                        {
+                            "type": "Taxi",
+                            "duration": "9 min"
+                        }
+                    ]
+                },
+                {
+                    "name": "9800 Block N Whitaker",
+                    "transportations": [
+                        {
+                            "type": "Walking",
+                            "duration": "2 min"
+                        }
+                    ]
+                },
+                {
+                    "name": "Portland International Airport",
+                    "transportations": [
+                        {
+                            "type": "Taxi",
+                            "duration": "19 min"
+                        },
+                        {
+                            "type": "Public transport",
+                            "duration": "1 hr 9 min"
+                        }
+                    ]
+                },
+                {
+                    "name": "Beaches Restaurant & Bar",
+                    "transportations": [
+                        {
+                            "type": "Taxi",
+                            "duration": "7 min"
+                        }
+                    ]
+                }
+            ],
+            "hotel_class": "3-star hotel",
+            "extracted_hotel_class": 3,
+            "images": [
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMjfx31-6SIO4bVojQnkjHIMzTtQhRidDOPKKHG=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipMjfx31-6SIO4bVojQnkjHIMzTtQhRidDOPKKHG=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOLflVac6QXGLz1vBWaXV014seywRY1dFEbvOAC=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipOLflVac6QXGLz1vBWaXV014seywRY1dFEbvOAC=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOqEoTHA4hbDKAGKS4OSgGRd2EYMAGeYN_OP853=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipOqEoTHA4hbDKAGKS4OSgGRd2EYMAGeYN_OP853=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNtA28ncCdpW5ggthTs_i96F6E7ZM6u6Td5jYBE=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipNtA28ncCdpW5ggthTs_i96F6E7ZM6u6Td5jYBE=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNHvTT2yb_o3L3HR-xyMN4dWQdbjpqOPiavm7TF=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipNHvTT2yb_o3L3HR-xyMN4dWQdbjpqOPiavm7TF=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/proxy/jEW43DEIB4YJ6MUF6cSkfqMvpjzMzlAO9ueCSl7sS_qFsgfv8AUU2H_048_-YqSjFTItdkxxjOVM17UG91DPuUmcjjg0n13wq1RE59uYxeMX5a1SKL0CROqtf5b_ZYF7ynfbgPf0fqck_S7Z8MTvvx86ZzTAag=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://images.trvl-media.com/lodging/1000000/20000/14900/14885/59b1c008_z.jpg"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNRbrq2ZiSUd5u6T0YuE7fjRfGx_F6BkZtizkcJ=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipNRbrq2ZiSUd5u6T0YuE7fjRfGx_F6BkZtizkcJ=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMJeGwLqQvOHyRC4r4gkzHCeuJ1qVbD1gSFoNB1=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipMJeGwLqQvOHyRC4r4gkzHCeuJ1qVbD1gSFoNB1=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNRBaROATCeuRwTQuiAA2YPf8kVm9uTKI8rEPNz=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipNRBaROATCeuRwTQuiAA2YPf8kVm9uTKI8rEPNz=s10000"
+                }
+            ],
+            "overall_rating": 4.1,
+            "reviews": 643,
+            "ratings": [
+                {
+                    "stars": 5,
+                    "count": 319
+                },
+                {
+                    "stars": 4,
+                    "count": 186
+                },
+                {
+                    "stars": 3,
+                    "count": 67
+                },
+                {
+                    "stars": 2,
+                    "count": 28
+                },
+                {
+                    "stars": 1,
+                    "count": 43
+                }
+            ],
+            "location_rating": 3.7,
+            "reviews_breakdown": [
+                {
+                    "name": "Breakfast",
+                    "description": "Breakfast",
+                    "total_mentioned": 113,
+                    "positive": 89,
+                    "negative": 15,
+                    "neutral": 9
+                },
+                {
+                    "name": "Restaurant",
+                    "description": "Restaurant",
+                    "total_mentioned": 59,
+                    "positive": 47,
+                    "negative": 5,
+                    "neutral": 7
+                },
+                {
+                    "name": "Fitness",
+                    "description": "Fitness",
+                    "total_mentioned": 20,
+                    "positive": 11,
+                    "negative": 4,
+                    "neutral": 5
+                },
+                {
+                    "name": "Safety",
+                    "description": "Safety",
+                    "total_mentioned": 38,
+                    "positive": 14,
+                    "negative": 20,
+                    "neutral": 4
+                },
+                {
+                    "name": "Pets",
+                    "description": "Pets",
+                    "total_mentioned": 10,
+                    "positive": 7,
+                    "negative": 2,
+                    "neutral": 1
+                },
+                {
+                    "name": "Service",
+                    "description": "Service",
+                    "total_mentioned": 178,
+                    "positive": 144,
+                    "negative": 29,
+                    "neutral": 5
+                }
+            ],
+            "amenities": [
+                "Free breakfast",
+                "Free Wi-Fi",
+                "Free parking",
+                "Hot tub",
+                "Air conditioning",
+                "Pet-friendly",
+                "Fitness centre",
+                "Bar",
+                "Restaurant",
+                "Golf",
+                "Accessible",
+                "Business centre",
+                "Child-friendly",
+                "Smoke-free property"
+            ],
+            "property_token": "ChoIxonE9JKn-Z7XARoNL2cvMTFmMzlqZ3E2bhAB",
+            "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2024-10-31&check_out_date=2024-11-05&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&property_token=ChoIxonE9JKn-Z7XARoNL2cvMTFmMzlqZ3E2bhAB&q=Coffee"
+        },
+        {
+            "type": "hotel",
+            "name": "AC Hotel Vancouver Waterfront",
+            "link": "https://www.marriott.com/en-us/hotels/pdxac-ac-hotel-vancouver-waterfront/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0",
+            "gps_coordinates": {
+                "latitude": 45.622779699999995,
+                "longitude": -122.6759248
+            },
+            "check_in_time": "4:00\u202fPM",
+            "check_out_time": "11:00\u202fAM",
+            "rate_per_night": {
+                "lowest": "$253",
+                "extracted_lowest": 253,
+                "before_taxes_fees": "$227",
+                "extracted_before_taxes_fees": 227
+            },
+            "total_rate": {
+                "lowest": "$1,263",
+                "extracted_lowest": 1263,
+                "before_taxes_fees": "$1,135",
+                "extracted_before_taxes_fees": 1135
+            },
+            "nearby_places": [
+                {
+                    "name": "Fort Vancouver Visitor Center",
+                    "transportations": [
+                        {
+                            "type": "Taxi",
+                            "duration": "7 min"
+                        }
+                    ]
+                },
+                {
+                    "name": "Phil Arnold Way & Columbia St",
+                    "transportations": [
+                        {
+                            "type": "Walking",
+                            "duration": "5 min"
+                        }
+                    ]
+                },
+                {
+                    "name": "Portland International Airport",
+                    "transportations": [
+                        {
+                            "type": "Taxi",
+                            "duration": "17 min"
+                        },
+                        {
+                            "type": "Public transport",
+                            "duration": "1 hr 38 min"
+                        }
+                    ]
+                },
+                {
+                    "name": "The Smokin' Oak Barbeque Restaurant, Bar & Catering",
+                    "transportations": [
+                        {
+                            "type": "Walking",
+                            "duration": "7 min"
+                        }
+                    ]
+                }
+            ],
+            "hotel_class": "3-star hotel",
+            "extracted_hotel_class": 3,
+            "images": [
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOyipu1dnJSbIzG_mZI9h5uyfgIu54OPBS09p0P=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipOyipu1dnJSbIzG_mZI9h5uyfgIu54OPBS09p0P=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNXJSlhinLfomlehiEGuvibYCspAP_YX8WMymkI=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipNXJSlhinLfomlehiEGuvibYCspAP_YX8WMymkI=s10000"
+                },
+                {
+                    "thumbnail": "https://lh6.googleusercontent.com/proxy/z7Dpzo_ebsczPrZOkVwwbHOOXvMVLrUe4f9q6OEMFzGo4ph7GEU8DnVlkPbl2l70sKfOKBLumcKVf_SktLsiiqLxd4lX9FnKXf6iWpYtwuwF7yq6NxWYoT2GMd3u-kiIF7jNQ-ClQ5bhngsl0B9VZsvcHnrtaSo=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://cdn.worldota.net/t/1024x768/content/76/fb/76fba2900c4680a8ff66c9e7cb16213dfaf8de93.jpeg"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPgM9ROUIxMm4W0wMcAESO2nFi-dNM3DoWBbxfG=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipPgM9ROUIxMm4W0wMcAESO2nFi-dNM3DoWBbxfG=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipORKoIvciND35wZEWsoM-6a5C2seTF3Ufb0ny_q=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipORKoIvciND35wZEWsoM-6a5C2seTF3Ufb0ny_q=s10000"
+                },
+                {
+                    "thumbnail": "https://lh4.googleusercontent.com/proxy/wMoelQh7HbolHqRjHncMr7DsWGdoCAP2rMhL88w3ShAfL7afFm9mnUjd2juqMaBfV4_b-7fTw9wZGztxbXqYI0CSovX2sRUT78RhRCO4qTT7sUnm-ELrvy2kKoMtzt24pgTh9nsHl3gnzheSfte0xR17sFgCSpI=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/29/5b/4e/caption.jpg?w=1900&h=1400&s=1"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMda-XaX-00_b3cE-UpEg8KNV8qUfb5f-rOQXhy=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipMda-XaX-00_b3cE-UpEg8KNV8qUfb5f-rOQXhy=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPY6cTJ-iseDyLl58LvBajhTEv3qAgLSKzCIp5L=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipPY6cTJ-iseDyLl58LvBajhTEv3qAgLSKzCIp5L=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPDnjfs5epbgCJ-aNqom3Rt3hI6vKh66FKnYHNe=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipPDnjfs5epbgCJ-aNqom3Rt3hI6vKh66FKnYHNe=s10000"
+                }
+            ],
+            "overall_rating": 4.3,
+            "reviews": 311,
+            "ratings": [
+                {
+                    "stars": 5,
+                    "count": 224
+                },
+                {
+                    "stars": 4,
+                    "count": 32
+                },
+                {
+                    "stars": 3,
+                    "count": 18
+                },
+                {
+                    "stars": 2,
+                    "count": 11
+                },
+                {
+                    "stars": 1,
+                    "count": 26
+                }
+            ],
+            "location_rating": 4.0,
+            "reviews_breakdown": [
+                {
+                    "name": "Nature",
+                    "description": "Nature and outdoor activities",
+                    "total_mentioned": 16,
+                    "positive": 15,
+                    "negative": 1,
+                    "neutral": 0
+                },
+                {
+                    "name": "Air Conditioning",
+                    "description": "Air conditioning",
+                    "total_mentioned": 17,
+                    "positive": 11,
+                    "negative": 3,
+                    "neutral": 3
+                },
+                {
+                    "name": "Bar",
+                    "description": "Bar or lounge",
+                    "total_mentioned": 52,
+                    "positive": 33,
+                    "negative": 16,
+                    "neutral": 3
+                },
+                {
+                    "name": "Couples",
+                    "description": "Couple friendly",
+                    "total_mentioned": 8,
+                    "positive": 7,
+                    "negative": 0,
+                    "neutral": 1
+                },
+                {
+                    "name": "Room",
+                    "description": "Room amenities",
+                    "total_mentioned": 68,
+                    "positive": 52,
+                    "negative": 11,
+                    "neutral": 5
+                },
+                {
+                    "name": "Nightlife",
+                    "description": "Nightlife",
+                    "total_mentioned": 7,
+                    "positive": 4,
+                    "negative": 3,
+                    "neutral": 0
+                }
+            ],
+            "amenities": [
+                "Free Wi-Fi",
+                "Parking ($)",
+                "Air conditioning",
+                "Fitness centre",
+                "Spa",
+                "Bar",
+                "Restaurant",
+                "Full-service laundry",
+                "Accessible",
+                "Business centre",
+                "Smoke-free property"
+            ],
+            "property_token": "ChkIipy-tf-tmNZ7Gg0vZy8xMXQxZjMyZzZtEAE",
+            "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2024-10-31&check_out_date=2024-11-05&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&property_token=ChkIipy-tf-tmNZ7Gg0vZy8xMXQxZjMyZzZtEAE&q=Coffee"
+        },
+        {
+            "type": "hotel",
+            "name": "WoodSpring Suites Portland Vancouver",
+            "link": "https://www.woodspring.com/extended-stay-hotels/locations/washington/vancouver/woodspring-suites-vancouver?utm_source=GooglePlaces&utm_medium=organic&utm_campaign=WA352",
+            "gps_coordinates": {
+                "latitude": 45.622118099999994,
+                "longitude": -122.56628260000001
+            },
+            "check_in_time": "3:00\u202fPM",
+            "check_out_time": "11:00\u202fAM",
+            "rate_per_night": {
+                "lowest": "$90",
+                "extracted_lowest": 90,
+                "before_taxes_fees": "$79",
+                "extracted_before_taxes_fees": 79
+            },
+            "total_rate": {
+                "lowest": "$449",
+                "extracted_lowest": 449,
+                "before_taxes_fees": "$397",
+                "extracted_before_taxes_fees": 397
+            },
+            "nearby_places": [
+                {
+                    "name": "The Grotto",
+                    "transportations": [
+                        {
+                            "type": "Taxi",
+                            "duration": "10 min"
+                        }
+                    ]
+                },
+                {
+                    "name": "104th Avenue",
+                    "transportations": [
+                        {
+                            "type": "Walking",
+                            "duration": "4 min"
+                        }
+                    ]
+                },
+                {
+                    "name": "Portland International Airport",
+                    "transportations": [
+                        {
+                            "type": "Taxi",
+                            "duration": "12 min"
+                        },
+                        {
+                            "type": "Public transport",
+                            "duration": "1 hr 12 min"
+                        }
+                    ]
+                },
+                {
+                    "name": "Youskyme Teriyaki",
+                    "transportations": [
+                        {
+                            "type": "Walking",
+                            "duration": "2 min"
+                        }
+                    ]
+                }
+            ],
+            "hotel_class": "2-star hotel",
+            "extracted_hotel_class": 2,
+            "images": [
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO1or7g1N2qpFqc3XgzAPGjBnfsSqRDuy_BNXxT=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipO1or7g1N2qpFqc3XgzAPGjBnfsSqRDuy_BNXxT=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMTSmQyebcfScJcgDhJRLVGHJxHuHpfLkplFx0R=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipMTSmQyebcfScJcgDhJRLVGHJxHuHpfLkplFx0R=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNIGWocVM3YgtSExkxbZzvyiYrqLgK0BI5RyrDR=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipNIGWocVM3YgtSExkxbZzvyiYrqLgK0BI5RyrDR=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipObRCe3OJsG71I8vIPle2-KmmsGlkS0FChAX49X=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipObRCe3OJsG71I8vIPle2-KmmsGlkS0FChAX49X=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPjLKrtSorJ6tpLzSmT1oQlMmYVgyIbhIYu57h_=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipPjLKrtSorJ6tpLzSmT1oQlMmYVgyIbhIYu57h_=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMgUiJ1G7roNdPL9oEsQddtojlbuH24AqQfh0Ne=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipMgUiJ1G7roNdPL9oEsQddtojlbuH24AqQfh0Ne=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNo039tlWPVqfD0JGozKhlePfNBec60df_rNX0z=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipNo039tlWPVqfD0JGozKhlePfNBec60df_rNX0z=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM1cj1k84C7khVSDcG1ZAF-bboPoHPjXJ8yWPqg=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipM1cj1k84C7khVSDcG1ZAF-bboPoHPjXJ8yWPqg=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMvfbmxp2P5tTKsaZWhQN1jexRvzGYBDu2rueWw=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipMvfbmxp2P5tTKsaZWhQN1jexRvzGYBDu2rueWw=s10000"
+                }
+            ],
+            "overall_rating": 3.4,
+            "reviews": 113,
+            "ratings": [
+                {
+                    "stars": 5,
+                    "count": 43
+                },
+                {
+                    "stars": 4,
+                    "count": 24
+                },
+                {
+                    "stars": 3,
+                    "count": 10
+                },
+                {
+                    "stars": 2,
+                    "count": 9
+                },
+                {
+                    "stars": 1,
+                    "count": 27
+                }
+            ],
+            "location_rating": 3.7,
+            "reviews_breakdown": [
+                {
+                    "name": "Safety",
+                    "description": "Safety",
+                    "total_mentioned": 10,
+                    "positive": 4,
+                    "negative": 5,
+                    "neutral": 1
+                },
+                {
+                    "name": "Wi-Fi",
+                    "description": "Wi-Fi",
+                    "total_mentioned": 6,
+                    "positive": 0,
+                    "negative": 5,
+                    "neutral": 1
+                },
+                {
+                    "name": "Accessibility",
+                    "description": "Accessibility",
+                    "total_mentioned": 9,
+                    "positive": 2,
+                    "negative": 7,
+                    "neutral": 0
+                },
+                {
+                    "name": "Room",
+                    "description": "Room amenities",
+                    "total_mentioned": 14,
+                    "positive": 3,
+                    "negative": 8,
+                    "neutral": 3
+                },
+                {
+                    "name": "Pets",
+                    "description": "Pets",
+                    "total_mentioned": 6,
+                    "positive": 1,
+                    "negative": 5,
+                    "neutral": 0
+                },
+                {
+                    "name": "Fitness",
+                    "description": "Fitness",
+                    "total_mentioned": 6,
+                    "positive": 5,
+                    "negative": 1,
+                    "neutral": 0
+                }
+            ],
+            "amenities": [
+                "Free Wi-Fi",
+                "Free parking",
+                "Air conditioning",
+                "Pet-friendly",
+                "Fitness centre",
+                "Kitchen in some rooms",
+                "Accessible",
+                "Business centre",
+                "Child-friendly",
+                "Smoke-free property"
+            ],
+            "property_token": "ChoI37zstsCggfTXARoNL2cvMTFyZ20zOHQ4bhAB",
+            "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2024-10-31&check_out_date=2024-11-05&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&property_token=ChoI37zstsCggfTXARoNL2cvMTFyZ20zOHQ4bhAB&q=Coffee"
+        },
+        {
+            "type": "hotel",
+            "name": "CASCADA Thermal Springs + Hotel",
+            "link": "https://cascada.me/",
+            "gps_coordinates": {
+                "latitude": 45.5588967,
+                "longitude": -122.65420389999998
+            },
+            "check_in_time": "3:00\u202fPM",
+            "check_out_time": "11:00\u202fAM",
+            "nearby_places": [
+                {
+                    "name": "NE Alberta & 11th",
+                    "transportations": [
+                        {
+                            "type": "Walking",
+                            "duration": "1 min"
+                        }
+                    ]
+                },
+                {
+                    "name": "Portland International Airport",
+                    "transportations": [
+                        {
+                            "type": "Taxi",
+                            "duration": "20 min"
+                        },
+                        {
+                            "type": "Public transport",
+                            "duration": "56 min"
+                        }
+                    ]
+                },
+                {
+                    "name": "Radio Room",
+                    "transportations": [
+                        {
+                            "type": "Walking",
+                            "duration": "1 min"
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMmnHXEnH2vmAeD5vz9EWxDtxwXK9o_kYw12V2P=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipMmnHXEnH2vmAeD5vz9EWxDtxwXK9o_kYw12V2P=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNCMTi1qzSmRVPa_VtSQsugiyzsJQ8qZEXcEhnS=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipNCMTi1qzSmRVPa_VtSQsugiyzsJQ8qZEXcEhnS=s10000"
+                },
+                {
+                    "thumbnail": "https://lh3.googleusercontent.com/proxy/9GXS4E3E9BG12rXW9rvgZJ1YQCBgCEKc6p1VgfeUngji5rsWOY_ptARSfqeIESzhpw2fIpJS8Whvtb7CQ5D4TUp6vqNmSN6cjfwiQwuDvDTW7GMeaAtWR4Gk0Z4ndGtISgrBwtamKMgCIWWQbVEgZM9bevnqhA=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://images.trvl-media.com/lodging/104000000/103880000/103879000/103878932/87bb454e_z.jpg"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPczDIXRthOWSaa4M4LaZbPG1fH8XKk9ou0t59A=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipPczDIXRthOWSaa4M4LaZbPG1fH8XKk9ou0t59A=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPNLEboXN28nExhKWyxfJeRh4TA58rtlsYlVsg1=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipPNLEboXN28nExhKWyxfJeRh4TA58rtlsYlVsg1=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMrY1bALaig9ic1YGhgFTSsEXDGd6GkFAI_YE-h=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipMrY1bALaig9ic1YGhgFTSsEXDGd6GkFAI_YE-h=s10000"
+                },
+                {
+                    "thumbnail": "https://lh3.googleusercontent.com/proxy/tx2zpQNjizbbA7wSXXu7rT_5VqHtxPXJeoRIwIGABr1u4Nrv01iwiIQdPO7JVCOcPaUEne6P1ul9KzFTXkMbcS5mIvTqARCZzUWaM5tWDSvQRrNdttozY-y9m60yvcuvkSQuYkO-9OXUiWQTMw3vQNDMt5wPOAY=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://images.trvl-media.com/lodging/104000000/103880000/103879000/103878932/w2416h1225x0y5-0e657c3e_z.jpg"
+                },
+                {
+                    "thumbnail": "https://lh4.googleusercontent.com/proxy/K96p4oV9NoqY1xJRLnXQYSwlV0_qyuXf2eaT5O9vjk9O7jQ4SN9ZaKQl9PO8dWgvI6p7eirSQx-eW4MzRPxT8p0RJxJBxFDA_5ws_-Wsz_bmmCwGThjnhb2Ln3OgCIkrz7zUY3HxPy3jcVpMeMIcCjMJqbYcSls=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://images.trvl-media.com/lodging/104000000/103880000/103879000/103878932/w2666h1228x0y0-0ce68f6a_z.jpg"
+                },
+                {
+                    "thumbnail": "https://lh6.googleusercontent.com/proxy/etsCgT3uh3NoHrXtm4Ya8agKfnQJYYFVNE91zvIMoWhOvsWUIzqbxFvXVc3X1_Jb7ebhiQ5fF_I7KtRtGEhWK9ZuMP-vgTZRdgu1iVQyX9M5s33VmHRb4G1m3QYYD_1w2T-V_Ey8LghrUd1lC7OBPDFhpW78pVk=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://images.trvl-media.com/lodging/104000000/103880000/103879000/103878932/312753d6_z.jpg"
+                }
+            ],
+            "overall_rating": 5,
+            "reviews": 2,
+            "ratings": [
+                {
+                    "stars": 5,
+                    "count": 2
+                },
+                {
+                    "stars": 4,
+                    "count": 0
+                },
+                {
+                    "stars": 3,
+                    "count": 0
+                },
+                {
+                    "stars": 2,
+                    "count": 0
+                },
+                {
+                    "stars": 1,
+                    "count": 0
+                }
+            ],
+            "location_rating": 4.1,
+            "property_token": "ChkI5KrLgv_-_L9nGg0vZy8xMXN2NzFwX3c5EAE",
+            "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2024-10-31&check_out_date=2024-11-05&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&property_token=ChkI5KrLgv_-_L9nGg0vZy8xMXN2NzFwX3c5EAE&q=Coffee"
+        },
+        {
+            "type": "hotel",
+            "name": "Hotel Indigo Vancouver Dwtn \u2013 Portland Area, an IHG Hotel",
+            "link": "https://www.ihg.com/hotelindigo/hotels/us/en/vancouver/pdxvc/hoteldetail?cm_mmc=GoogleMaps-_-IN-_-US-_-PDXVC",
+            "gps_coordinates": {
+                "latitude": 45.6235,
+                "longitude": -122.67772
+            },
+            "check_in_time": "3:00\u202fPM",
+            "check_out_time": "11:00\u202fAM",
+            "rate_per_night": {
+                "lowest": "$238",
+                "extracted_lowest": 238,
+                "before_taxes_fees": "$188",
+                "extracted_before_taxes_fees": 188
+            },
+            "total_rate": {
+                "lowest": "$1,191",
+                "extracted_lowest": 1191,
+                "before_taxes_fees": "$940",
+                "extracted_before_taxes_fees": 940
+            },
+            "nearby_places": [
+                {
+                    "name": "Fort Vancouver Visitor Center",
+                    "transportations": [
+                        {
+                            "type": "Taxi",
+                            "duration": "6 min"
+                        }
+                    ]
+                },
+                {
+                    "name": "Phil Arnold Way & Columbia St",
+                    "transportations": [
+                        {
+                            "type": "Walking",
+                            "duration": "5 min"
+                        }
+                    ]
+                },
+                {
+                    "name": "Portland International Airport",
+                    "transportations": [
+                        {
+                            "type": "Taxi",
+                            "duration": "18 min"
+                        },
+                        {
+                            "type": "Public transport",
+                            "duration": "1 hr 40 min"
+                        }
+                    ]
+                },
+                {
+                    "name": "DOSALAS latin kitchen + tequila bar",
+                    "transportations": [
+                        {
+                            "type": "Walking",
+                            "duration": "4 min"
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP31ODeeYdha90_aoLsJuU55HI166HohNWD0Pl-=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipP31ODeeYdha90_aoLsJuU55HI166HohNWD0Pl-=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPdBCku_VcuucwOV1QYisUcFrkfZ5fCU5PGF6Sn=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipPdBCku_VcuucwOV1QYisUcFrkfZ5fCU5PGF6Sn=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMww861xqiK9PFvMG3lYGtUG6qX9EZvJq9HlW76=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipMww861xqiK9PFvMG3lYGtUG6qX9EZvJq9HlW76=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM0QUfyUMtKxWUIyGpQN8EqrC0-L1VN5tQl1kxA=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipM0QUfyUMtKxWUIyGpQN8EqrC0-L1VN5tQl1kxA=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOctUaXw2yr2wJHdCAFWRCkvUVxcvN6sWl-UGSc=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipOctUaXw2yr2wJHdCAFWRCkvUVxcvN6sWl-UGSc=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOVq1yj6OctmI70DMhFbi8rtba7MhoUgz209U7_=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipOVq1yj6OctmI70DMhFbi8rtba7MhoUgz209U7_=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipONiaE1VYzJ2VpZpJDAwwhb3jm2ImxSJHhoww57=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipONiaE1VYzJ2VpZpJDAwwhb3jm2ImxSJHhoww57=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPWAnYIN3BMZc3cQiOBWIJhh9UYT73qOwjvqNdq=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipPWAnYIN3BMZc3cQiOBWIJhh9UYT73qOwjvqNdq=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNpVGtUy3tq8Ct0dfDSLT_87cIIJS7Rt4PAn7yt=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipNpVGtUy3tq8Ct0dfDSLT_87cIIJS7Rt4PAn7yt=s10000"
+                }
+            ],
+            "overall_rating": 4.4,
+            "reviews": 150,
+            "ratings": [
+                {
+                    "stars": 5,
+                    "count": 106
+                },
+                {
+                    "stars": 4,
+                    "count": 24
+                },
+                {
+                    "stars": 3,
+                    "count": 5
+                },
+                {
+                    "stars": 2,
+                    "count": 7
+                },
+                {
+                    "stars": 1,
+                    "count": 8
+                }
+            ],
+            "location_rating": 3.9,
+            "reviews_breakdown": [
+                {
+                    "name": "Nature",
+                    "description": "Nature and outdoor activities",
+                    "total_mentioned": 12,
+                    "positive": 11,
+                    "negative": 1,
+                    "neutral": 0
+                },
+                {
+                    "name": "Bar",
+                    "description": "Bar or lounge",
+                    "total_mentioned": 12,
+                    "positive": 10,
+                    "negative": 1,
+                    "neutral": 1
+                },
+                {
+                    "name": "Gym",
+                    "description": "Gym",
+                    "total_mentioned": 6,
+                    "positive": 4,
+                    "negative": 2,
+                    "neutral": 0
+                },
+                {
+                    "name": "Room",
+                    "description": "Room amenities",
+                    "total_mentioned": 19,
+                    "positive": 15,
+                    "negative": 2,
+                    "neutral": 2
+                },
+                {
+                    "name": "Parking",
+                    "description": "Parking",
+                    "total_mentioned": 13,
+                    "positive": 6,
+                    "negative": 6,
+                    "neutral": 1
+                },
+                {
+                    "name": "Business",
+                    "description": "Business",
+                    "total_mentioned": 8,
+                    "positive": 6,
+                    "negative": 0,
+                    "neutral": 2
+                }
+            ],
+            "amenities": [
+                "Breakfast ($)",
+                "Free Wi-Fi",
+                "Parking ($)",
+                "Air conditioning",
+                "Pet-friendly",
+                "Fitness centre",
+                "Bar",
+                "Restaurant",
+                "Room service",
+                "Full-service laundry",
+                "Accessible",
+                "Business centre",
+                "Child-friendly",
+                "Smoke-free property"
+            ],
+            "property_token": "ChkImvfp84q_sJZpGg0vZy8xMWxtNHk0dmJoEAE",
+            "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2024-10-31&check_out_date=2024-11-05&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&property_token=ChkImvfp84q_sJZpGg0vZy8xMWxtNHk0dmJoEAE&q=Coffee"
+        },
+        {
+            "type": "hotel",
+            "name": "Cedartree Hotel",
+            "link": "https://cedartreehotels.com/?utm_source=google-gmb-maps&utm_medium=gmb-website-button&utm_campaign=locl.io&utm_content=67b5c1d3-c371-4fca-813c-a9462729ad77",
+            "gps_coordinates": {
+                "latitude": 45.5597746,
+                "longitude": -122.90228510000001
+            },
+            "check_in_time": "3:00\u202fPM",
+            "check_out_time": "11:00\u202fAM",
+            "rate_per_night": {
+                "lowest": "$145",
+                "extracted_lowest": 145,
+                "before_taxes_fees": "$128",
+                "extracted_before_taxes_fees": 128
+            },
+            "total_rate": {
+                "lowest": "$727",
+                "extracted_lowest": 727,
+                "before_taxes_fees": "$640",
+                "extracted_before_taxes_fees": 640
+            },
+            "nearby_places": [
+                {
+                    "name": "Rice Northwest Museum of Rocks & Minerals",
+                    "transportations": [
+                        {
+                            "type": "Taxi",
+                            "duration": "8 min"
+                        }
+                    ]
+                },
+                {
+                    "name": "Portland International Airport",
+                    "transportations": [
+                        {
+                            "type": "Taxi",
+                            "duration": "35 min"
+                        },
+                        {
+                            "type": "Public transport",
+                            "duration": "1 hr 56 min"
+                        }
+                    ]
+                },
+                {
+                    "name": "Waterfalls Restaurant & Bar",
+                    "transportations": [
+                        {
+                            "type": "Walking",
+                            "duration": "1 min"
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/proxy/D70i7Wvhi5gKsm3dlM6gL7MyvuVc5uojxR0nGJChh3kL1mMdS7o3c-NJEIxC0IcxplOMLvg0fzpiaLgH7dHQRHgsmoGv7N_6JbeWWGXJx1UwTmJPgSFFE6OavwtnDdTsT9VwXfZUje_3FqV2lRnlLQeJ2D9uqiY=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://images.trvl-media.com/lodging/48000000/47060000/47052300/47052234/be7b69fa_z.jpg"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPsjM4HTs3zmxpor9EShlqsowGYt45DqBpiTHC-=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipPsjM4HTs3zmxpor9EShlqsowGYt45DqBpiTHC-=s10000"
+                },
+                {
+                    "thumbnail": "https://lh4.googleusercontent.com/proxy/jcwudN4r49kZ2-sd6QuVOUGZTL8CjrA5GMs2r_ckNZ4MBGdtarN5GJ1ZGqU2bG-2okJIv5DxZ56Qok67yl90vT0SGppP_f9wIQIQ9HDklQKDogKdarP5OBSl2wAAyCadi1NyVc4MU_1gtfda9V9TUzWp1nKAnTQ=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/d3/43/c3/bedroom-in-suite.jpg?w=2100&h=1400&s=1"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/proxy/AQkq-LT-XQFyaTAcFyzC8Hj2xW7mB-i3-dtKukcFwdYalbsohdCWK94XNS5jrlG5ZAEvoqpnypnOFWp6HCtc65cEb0ulpZFdin1BjeztiMN33e2Yf3hhqNtZYS8n23kc1huuGGZ8N_fH5UJcLv4G5ilQmSKtqg=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://d2hyz2bfif3cr8.cloudfront.net/imageRepo/1/0/176/712/635/Daytime_Exterior_S.jpg"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNiB3nrDzeqsEDGOktIP8JWMB2fT2XoziLONtU0=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipNiB3nrDzeqsEDGOktIP8JWMB2fT2XoziLONtU0=s10000"
+                },
+                {
+                    "thumbnail": "https://lh6.googleusercontent.com/proxy/1r849CAY2c7BGwVweQT6AHy6Z9wJNQDh3mDsVelS8ToroyIiguUPMEavRQ-6hHP5nc7I2sbBZ6Tb5ap-0kjtqfCRaWXDKmCSpZiOrP-0KlEBa8WtXRcqWU-WdpO621s2rsEBFVsH31WpJVPjqXNqttFKjciBSwg=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://d2hyz2bfif3cr8.cloudfront.net/imageRepo/1/0/176/712/449/Guestroom_Corridor_S.jpg"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNHnyhPFtW476LBJaOTP8AQ3W5e4Xkrvoa259xH=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipNHnyhPFtW476LBJaOTP8AQ3W5e4Xkrvoa259xH=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOchBp_zi7mjgG08LT_6EWUbeujgsuqBvKCKn_V=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipOchBp_zi7mjgG08LT_6EWUbeujgsuqBvKCKn_V=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN2rUEbOkpbx2OevSa2gszK_BrPG5cMiEMWTeiU=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipN2rUEbOkpbx2OevSa2gszK_BrPG5cMiEMWTeiU=s10000"
+                }
+            ],
+            "overall_rating": 4.8,
+            "reviews": 69,
+            "ratings": [
+                {
+                    "stars": 5,
+                    "count": 62
+                },
+                {
+                    "stars": 4,
+                    "count": 3
+                },
+                {
+                    "stars": 3,
+                    "count": 3
+                },
+                {
+                    "stars": 2,
+                    "count": 0
+                },
+                {
+                    "stars": 1,
+                    "count": 1
+                }
+            ],
+            "location_rating": 2.9,
+            "reviews_breakdown": [
+                {
+                    "name": "Family",
+                    "description": "Family friendly",
+                    "total_mentioned": 7,
+                    "positive": 4,
+                    "negative": 2,
+                    "neutral": 1
+                },
+                {
+                    "name": "Bathroom",
+                    "description": "Bathroom and toiletries",
+                    "total_mentioned": 14,
+                    "positive": 10,
+                    "negative": 2,
+                    "neutral": 2
+                },
+                {
+                    "name": "Dining",
+                    "description": "Food and Beverage",
+                    "total_mentioned": 14,
+                    "positive": 11,
+                    "negative": 3,
+                    "neutral": 0
+                },
+                {
+                    "name": "Bar",
+                    "description": "Bar or lounge",
+                    "total_mentioned": 11,
+                    "positive": 7,
+                    "negative": 2,
+                    "neutral": 2
+                },
+                {
+                    "name": "Fitness",
+                    "description": "Fitness",
+                    "total_mentioned": 13,
+                    "positive": 12,
+                    "negative": 1,
+                    "neutral": 0
+                },
+                {
+                    "name": "Service",
+                    "description": "Service",
+                    "total_mentioned": 29,
+                    "positive": 27,
+                    "negative": 1,
+                    "neutral": 1
+                }
+            ],
+            "amenities": [
+                "Breakfast ($)",
+                "Free Wi-Fi",
+                "Free parking",
+                "Air conditioning",
+                "Fitness centre",
+                "Bar",
+                "Restaurant",
+                "Kitchen in some rooms",
+                "Golf",
+                "Accessible",
+                "Business centre",
+                "Child-friendly",
+                "Smoke-free property"
+            ],
+            "property_token": "ChoIjIr344HFyavkARoNL2cvMTFmdHdicGZzMhAB",
+            "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2024-10-31&check_out_date=2024-11-05&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&property_token=ChoIjIr344HFyavkARoNL2cvMTFmdHdicGZzMhAB&q=Coffee"
+        },
+        {
+            "type": "hotel",
+            "name": "Hilton Vancouver Washington",
+            "description": "Modern hotel with an indoor pool, fitness center & restaurant, plus abundant event space.",
+            "link": "https://www.hilton.com/en/hotels/pdxvahh-hilton-vancouver-washington/?SEO_id=GMB-AMER-HH-PDXVAHH&y_source=1_MTIyMDg2Ni03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "gps_coordinates": {
+                "latitude": 45.6254603,
+                "longitude": -122.67425089999999
+            },
+            "check_in_time": "4:00\u202fPM",
+            "check_out_time": "12:00\u202fPM",
+            "rate_per_night": {
+                "lowest": "$151",
+                "extracted_lowest": 151,
+                "before_taxes_fees": "$135",
+                "extracted_before_taxes_fees": 135
+            },
+            "total_rate": {
+                "lowest": "$754",
+                "extracted_lowest": 754,
+                "before_taxes_fees": "$676",
+                "extracted_before_taxes_fees": 676
+            },
+            "deal": "26% less than usual",
+            "deal_description": "Great Deal",
+            "nearby_places": [
+                {
+                    "name": "Fort Vancouver Visitor Center",
+                    "transportations": [
+                        {
+                            "type": "Taxi",
+                            "duration": "5 min"
+                        }
+                    ]
+                },
+                {
+                    "name": "W 6th St & Washington",
+                    "transportations": [
+                        {
+                            "type": "Walking",
+                            "duration": "2 min"
+                        }
+                    ]
+                },
+                {
+                    "name": "Portland International Airport",
+                    "transportations": [
+                        {
+                            "type": "Taxi",
+                            "duration": "16 min"
+                        },
+                        {
+                            "type": "Public transport",
+                            "duration": "1 hr 34 min"
+                        }
+                    ]
+                },
+                {
+                    "name": "Grays Restaurant & Bar",
+                    "transportations": [
+                        {
+                            "type": "Walking",
+                            "duration": "1 min"
+                        }
+                    ]
+                }
+            ],
+            "hotel_class": "4-star hotel",
+            "extracted_hotel_class": 4,
+            "images": [
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNbQugpsYcThUjerD8N61RYuh3depzjApWrfURp=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipNbQugpsYcThUjerD8N61RYuh3depzjApWrfURp=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNnlV85ApMXCsPpV8t_pzThNgjQL235SHeAvv7G=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipNnlV85ApMXCsPpV8t_pzThNgjQL235SHeAvv7G=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP1rK1ZnvWsGcXIdU0vB2A_cjThaZMqRO2v0c3u=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipP1rK1ZnvWsGcXIdU0vB2A_cjThaZMqRO2v0c3u=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOCCNqHTojSkPfpn4S1UlW5HTD1ZWoXtbEbQXwm=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipOCCNqHTojSkPfpn4S1UlW5HTD1ZWoXtbEbQXwm=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM096hyV7D-bA9CYdbzNa8jCUcTh0NjL-VhGtXe=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipM096hyV7D-bA9CYdbzNa8jCUcTh0NjL-VhGtXe=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPE2SGTuUu_73P657ovmU7jK37_dmunk6Yi-4sD=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipPE2SGTuUu_73P657ovmU7jK37_dmunk6Yi-4sD=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNIv68b1CeVKIpqydgQusnF3rBfcjjb8YGqybZy=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipNIv68b1CeVKIpqydgQusnF3rBfcjjb8YGqybZy=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM6CSu5aI2qJXylHv7YsOaP0FvJS1DzkoxdaKUQ=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipM6CSu5aI2qJXylHv7YsOaP0FvJS1DzkoxdaKUQ=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMBaRXLT2aQHn-sDqc8NVs5ts-IqnaNLP40ScA6=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipMBaRXLT2aQHn-sDqc8NVs5ts-IqnaNLP40ScA6=s10000"
+                }
+            ],
+            "overall_rating": 4.4,
+            "reviews": 1971,
+            "ratings": [
+                {
+                    "stars": 5,
+                    "count": 1171
+                },
+                {
+                    "stars": 4,
+                    "count": 557
+                },
+                {
+                    "stars": 3,
+                    "count": 153
+                },
+                {
+                    "stars": 2,
+                    "count": 43
+                },
+                {
+                    "stars": 1,
+                    "count": 47
+                }
+            ],
+            "location_rating": 4.2,
+            "reviews_breakdown": [
+                {
+                    "name": "Business",
+                    "description": "Business",
+                    "total_mentioned": 142,
+                    "positive": 103,
+                    "negative": 14,
+                    "neutral": 25
+                },
+                {
+                    "name": "Couples",
+                    "description": "Couple friendly",
+                    "total_mentioned": 22,
+                    "positive": 14,
+                    "negative": 2,
+                    "neutral": 6
+                },
+                {
+                    "name": "Bar",
+                    "description": "Bar or lounge",
+                    "total_mentioned": 82,
+                    "positive": 53,
+                    "negative": 15,
+                    "neutral": 14
+                },
+                {
+                    "name": "Nightlife",
+                    "description": "Nightlife",
+                    "total_mentioned": 18,
+                    "positive": 7,
+                    "negative": 7,
+                    "neutral": 4
+                },
+                {
+                    "name": "Nature",
+                    "description": "Nature and outdoor activities",
+                    "total_mentioned": 11,
+                    "positive": 11,
+                    "negative": 0,
+                    "neutral": 0
+                },
+                {
+                    "name": "Parking",
+                    "description": "Parking",
+                    "total_mentioned": 108,
+                    "positive": 39,
+                    "negative": 49,
+                    "neutral": 20
+                }
+            ],
+            "amenities": [
+                "Breakfast ($)",
+                "Free Wi-Fi",
+                "Free parking",
+                "Indoor pool",
+                "Hot tub",
+                "Air conditioning",
+                "Pet-friendly",
+                "Fitness centre",
+                "Bar",
+                "Restaurant",
+                "Room service",
+                "Airport shuttle",
+                "Full-service laundry",
+                "Accessible",
+                "Business centre",
+                "Child-friendly",
+                "Smoke-free property"
+            ],
+            "eco_certified": true,
+            "property_token": "ChgI2L6TiZaD2OTDARoLL2cvMXZkM3ZodDkQAQ",
+            "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2024-10-31&check_out_date=2024-11-05&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&property_token=ChgI2L6TiZaD2OTDARoLL2cvMXZkM3ZodDkQAQ&q=Coffee"
+        },
+        {
+            "type": "hotel",
+            "name": "Days Inn & Suites by Wyndham Vancouver",
+            "description": "Straightforward hotel with free continental breakfast, parking & WiFi, plus an indoor pool.",
+            "link": "https://www.wyndhamhotels.com/days-inn/vancouver-washington/days-inn-and-suites-vancouver/overview?CID=LC:iqv0j1dklijly45:15134&iata=00093796",
+            "gps_coordinates": {
+                "latitude": 45.656909899999995,
+                "longitude": -122.5792474
+            },
+            "check_in_time": "3:00\u202fPM",
+            "check_out_time": "12:00\u202fPM",
+            "rate_per_night": {
+                "lowest": "$68",
+                "extracted_lowest": 68,
+                "before_taxes_fees": "$60",
+                "extracted_before_taxes_fees": 60
+            },
+            "total_rate": {
+                "lowest": "$339",
+                "extracted_lowest": 339,
+                "before_taxes_fees": "$301",
+                "extracted_before_taxes_fees": 301
+            },
+            "nearby_places": [
+                {
+                    "name": "Van Mall Dr & 94th Ave",
+                    "transportations": [
+                        {
+                            "type": "Walking",
+                            "duration": "4 min"
+                        }
+                    ]
+                },
+                {
+                    "name": "Portland International Airport",
+                    "transportations": [
+                        {
+                            "type": "Taxi",
+                            "duration": "16 min"
+                        },
+                        {
+                            "type": "Public transport",
+                            "duration": "1 hr 11 min"
+                        }
+                    ]
+                },
+                {
+                    "name": "Banderyky",
+                    "transportations": [
+                        {
+                            "type": "Walking",
+                            "duration": "7 min"
+                        }
+                    ]
+                }
+            ],
+            "hotel_class": "2-star hotel",
+            "extracted_hotel_class": 2,
+            "images": [
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNVaNV5g9YBeEpQ2SkRiAHRvOW-9J4J5DURG47X=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipNVaNV5g9YBeEpQ2SkRiAHRvOW-9J4J5DURG47X=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMsyEF621ji3vX8zu5E9iYt7RpGrL1pVQJxs_Tx=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipMsyEF621ji3vX8zu5E9iYt7RpGrL1pVQJxs_Tx=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOU5CUPXDNuINWpW47Nuof9nKp8x7AG1BG6kXSo=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipOU5CUPXDNuINWpW47Nuof9nKp8x7AG1BG6kXSo=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPOyro7N_jTy7vH37fT1NHVzjCIbtBN_RZnT8jq=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipPOyro7N_jTy7vH37fT1NHVzjCIbtBN_RZnT8jq=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOwGlwcjsHFnhNXetpzAaA6XTC8rUxs41uG2CEy=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipOwGlwcjsHFnhNXetpzAaA6XTC8rUxs41uG2CEy=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM3R15kiTQU2E_DTgjoQo6njrbg5HbRzpOoI88D=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipM3R15kiTQU2E_DTgjoQo6njrbg5HbRzpOoI88D=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOuXutwtZpFGSsz7D87lrY1UhxGd6YEtW1z0z-k=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipOuXutwtZpFGSsz7D87lrY1UhxGd6YEtW1z0z-k=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNFkFW4vO_eMe-uL-sSLfbgE_rl4DMJP4FjZfvG=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipNFkFW4vO_eMe-uL-sSLfbgE_rl4DMJP4FjZfvG=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN9ABmOeZ_W-XY8zEqgyhwlSkQFEugc06S1exxh=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipN9ABmOeZ_W-XY8zEqgyhwlSkQFEugc06S1exxh=s10000"
+                }
+            ],
+            "overall_rating": 2.6,
+            "reviews": 1067,
+            "ratings": [
+                {
+                    "stars": 5,
+                    "count": 201
+                },
+                {
+                    "stars": 4,
+                    "count": 171
+                },
+                {
+                    "stars": 3,
+                    "count": 134
+                },
+                {
+                    "stars": 2,
+                    "count": 112
+                },
+                {
+                    "stars": 1,
+                    "count": 449
+                }
+            ],
+            "location_rating": 3.5,
+            "reviews_breakdown": [
+                {
+                    "name": "Hot Tub",
+                    "description": "Hot tub",
+                    "total_mentioned": 44,
+                    "positive": 11,
+                    "negative": 32,
+                    "neutral": 1
+                },
+                {
+                    "name": "Fitness",
+                    "description": "Fitness",
+                    "total_mentioned": 135,
+                    "positive": 25,
+                    "negative": 96,
+                    "neutral": 14
+                },
+                {
+                    "name": "Wellness",
+                    "description": "Wellness",
+                    "total_mentioned": 14,
+                    "positive": 4,
+                    "negative": 9,
+                    "neutral": 1
+                },
+                {
+                    "name": "Air Conditioning",
+                    "description": "Air conditioning",
+                    "total_mentioned": 24,
+                    "positive": 1,
+                    "negative": 22,
+                    "neutral": 1
+                },
+                {
+                    "name": "Wi-Fi",
+                    "description": "Wi-Fi",
+                    "total_mentioned": 32,
+                    "positive": 5,
+                    "negative": 23,
+                    "neutral": 4
+                },
+                {
+                    "name": "TV",
+                    "description": "Room entertainment",
+                    "total_mentioned": 55,
+                    "positive": 5,
+                    "negative": 46,
+                    "neutral": 4
+                }
+            ],
+            "amenities": [
+                "Free breakfast",
+                "Free Wi-Fi",
+                "Free parking",
+                "Indoor pool",
+                "Hot tub",
+                "Air conditioning",
+                "Pet-friendly",
+                "Restaurant",
+                "Golf",
+                "Accessible",
+                "Business centre",
+                "Child-friendly",
+                "Smoke-free property"
+            ],
+            "property_token": "ChgIz52W2o6tn8UjGgwvZy8xMTNqY2RsbjMQAQ",
+            "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2024-10-31&check_out_date=2024-11-05&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&property_token=ChgIz52W2o6tn8UjGgwvZy8xMTNqY2RsbjMQAQ&q=Coffee"
+        },
+        {
+            "type": "hotel",
+            "name": "Kenton Hotel",
+            "link": "https://www.kentonhotel.net/",
+            "gps_coordinates": {
+                "latitude": 45.5832768,
+                "longitude": -122.68531089999999
+            },
+            "check_in_time": "3:00\u202fPM",
+            "check_out_time": "11:00\u202fAM",
+            "rate_per_night": {
+                "lowest": "$102",
+                "extracted_lowest": 102,
+                "before_taxes_fees": "$78",
+                "extracted_before_taxes_fees": 78
+            },
+            "total_rate": {
+                "lowest": "$510",
+                "extracted_lowest": 510,
+                "before_taxes_fees": "$392",
+                "extracted_before_taxes_fees": 392
+            },
+            "nearby_places": [
+                {
+                    "name": "Powell's City of Books",
+                    "transportations": [
+                        {
+                            "type": "Taxi",
+                            "duration": "10 min"
+                        }
+                    ]
+                },
+                {
+                    "name": "Kenton/N Denver Ave",
+                    "transportations": [
+                        {
+                            "type": "Walking",
+                            "duration": "1 min"
+                        }
+                    ]
+                },
+                {
+                    "name": "Portland International Airport",
+                    "transportations": [
+                        {
+                            "type": "Taxi",
+                            "duration": "20 min"
+                        },
+                        {
+                            "type": "Public transport",
+                            "duration": "1 hr 2 min"
+                        }
+                    ]
+                },
+                {
+                    "name": "An An",
+                    "transportations": [
+                        {
+                            "type": "Walking",
+                            "duration": "2 min"
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/proxy/povF2w3qxwunKpiVKoCFKaj7K-pwZFhNwcackSjnYGIgNoN5fqU6optGZVLDlFSAzo5F0GMT7A1Do-It_P2boObLtk-TD33jYT1cpO4xoUpErGUdQQvkfh9CFRBbR-toePEMdir0mUsvRDNhO64gzxH4M-UCCOs=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://images.trvl-media.com/lodging/84000000/83320000/83316700/83316681/75d8c960_z.jpg"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNfqhqvM8sZaaAqM_IZVhjjQMhuCWf9dAhTJ9c=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipNfqhqvM8sZaaAqM_IZVhjjQMhuCWf9dAhTJ9c=s10000"
+                },
+                {
+                    "thumbnail": "https://lh3.googleusercontent.com/proxy/Y6-Abrn2t2OZlNSGmMZrI2tqDZpeMOuVAXkBnBMmA5CKWYxGAJONJkKozif4MVxZ-EywBN_TMl5C2fxhvaF8P82IqdzCC3b3gUGpGSoR0mlcasriLOhgnZ5nG6mjP6KUfxC5JoWmM7nd4UM0GTISfFcX-XajEb4=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://cdn.worldota.net/t/1024x768/content/3a/dc/3adcbf3548cbccc4d18892e796065958760fc653.JPEG"
+                },
+                {
+                    "thumbnail": "https://lh3.googleusercontent.com/proxy/IzE-s4pYrxfgwmpZwLA99A0uinZrKB_VW-wU0Snfab3VnDzTQ7C9HPJr3OyyB4VWnY62JcfOy-g9ONJSKykbjZjANCcUBXLpmuc8gG3OInDrHUm6dtwqY8KuyCcW1RxcGR1YRImhhcgO5DKiySdGEVQ9kC5j9A=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://cdn.worldota.net/t/1024x768/content/68/cf/68cfa5515b9939fe2e121f2ea997cd5d02d90056.JPEG"
+                },
+                {
+                    "thumbnail": "https://lh3.googleusercontent.com/proxy/0jVGGr8eFlSKvZp3Q0MR233yGVnnoSVu68zRCFGoEdzlxqZAnH93EJeyB9tLvxtBZ1RENz3H-Ny4Ji-xLUZumQsE9ukrORFJTv-ocdIa2K1M_MT3BhAmBtHhro__2AWeJTcQzqfwtxuPZMGASG3iJuGjBYaa8A=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://cdn.worldota.net/t/1024x768/content/4f/49/4f4914e3c28814af46c475a190c61998724a30ca.JPEG"
+                },
+                {
+                    "thumbnail": "https://lh3.googleusercontent.com/proxy/3-pUy5KqU1f9dY0oNEkNvUVHpPrNTC7s9AWWi1VgRxMWfPPLCjU_cwVKPZl7mwbeKW3ZC_XmHQuXt36G7V4OINhAhzOH2q8-cn_VVyx_8a6fIp3vsNfKfyfE5wR6Tai1dKjnOnpzXO7lyQQxWfUzlDme49giCJg=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://cdn.worldota.net/t/1024x768/content/06/8e/068eb82f0ed35524ea0f448009530982fcfe6bd5.JPEG"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOfCsi9a_O78oaB-cjBLuLLPUz5ES7rGFo2tPid=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipOfCsi9a_O78oaB-cjBLuLLPUz5ES7rGFo2tPid=s10000"
+                },
+                {
+                    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNNmgcvSGz5nlXjsieu5_iWIF8z-AWFruhSQjQw=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://lh5.googleusercontent.com/p/AF1QipNNmgcvSGz5nlXjsieu5_iWIF8z-AWFruhSQjQw=s10000"
+                },
+                {
+                    "thumbnail": "https://lh3.googleusercontent.com/proxy/SA0wTp0jh533z-QIXuZduNW1nncr9K-SOvRtWYYLc_zDaaQayfq5hj5aCD5IF0VkGzUghUEQKDMV3wkVLvlZ9elbSqSrTGYmyg5lag5GSx_irn9CLbrXLjV5dXROZRoTNZTHI8yHOgJ6TGegesfF41dG8HFo8A=s287-w287-h192-n-k-no-v1",
+                    "original_image": "https://cdn.worldota.net/t/1024x768/content/25/28/25285b05e5bd74b228e036d1a96d22fede9fbea2.JPEG"
+                }
+            ],
+            "overall_rating": 3.1,
+            "reviews": 61,
+            "ratings": [
+                {
+                    "stars": 5,
+                    "count": 24
+                },
+                {
+                    "stars": 4,
+                    "count": 8
+                },
+                {
+                    "stars": 3,
+                    "count": 3
+                },
+                {
+                    "stars": 2,
+                    "count": 3
+                },
+                {
+                    "stars": 1,
+                    "count": 23
+                }
+            ],
+            "location_rating": 3.7,
+            "reviews_breakdown": [
+                {
+                    "name": "Accessibility",
+                    "description": "Accessibility",
+                    "total_mentioned": 5,
+                    "positive": 1,
+                    "negative": 3,
+                    "neutral": 1
+                },
+                {
+                    "name": "Room",
+                    "description": "Room amenities",
+                    "total_mentioned": 8,
+                    "positive": 2,
+                    "negative": 2,
+                    "neutral": 4
+                },
+                {
+                    "name": "Service",
+                    "description": "Service",
+                    "total_mentioned": 18,
+                    "positive": 4,
+                    "negative": 12,
+                    "neutral": 2
+                },
+                {
+                    "name": "Property",
+                    "description": "Property",
+                    "total_mentioned": 21,
+                    "positive": 12,
+                    "negative": 9,
+                    "neutral": 0
+                },
+                {
+                    "name": "Sleep",
+                    "description": "Sleep",
+                    "total_mentioned": 7,
+                    "positive": 1,
+                    "negative": 4,
+                    "neutral": 2
+                },
+                {
+                    "name": "Cleanliness",
+                    "description": "Cleanliness",
+                    "total_mentioned": 11,
+                    "positive": 9,
+                    "negative": 1,
+                    "neutral": 1
+                }
+            ],
+            "amenities": [
+                "Free Wi-Fi",
+                "Air conditioning",
+                "Pet-friendly",
+                "Accessible"
+            ],
+            "property_token": "ChoI4aP91fzD8YyEARoNL2cvMTFoemx4aHEzdxAB",
+            "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2024-10-31&check_out_date=2024-11-05&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&property_token=ChoI4aP91fzD8YyEARoNL2cvMTFoemx4aHEzdxAB&q=Coffee"
+        }
+    ],
+    "serpapi_pagination": {
+        "current_from": 1,
+        "current_to": 20,
+        "next_page_token": "CBI=",
+        "next": "https://serpapi.com/search.json?adults=2&check_in_date=2024-10-31&check_out_date=2024-11-05&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&next_page_token=CBI%3D&q=Coffee"
+    }
+}
