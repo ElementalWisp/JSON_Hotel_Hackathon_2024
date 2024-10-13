@@ -10,9 +10,9 @@ from contextlib import redirect_stdout
 from dotenv import load_dotenv
 
 def main():
-	city = input('Enter your city: ')
-	state = input('Enter your state: ')
-	query = input('Anything specific you want in your hotel?: ')
+	city = input('Enter the city: ')
+	state = input('Enter the state: ')
+	query = input('Keywords/tags: ')
 	check_in_date = input('Check in date (YYYY-MM-DD): ')
 	check_out_date = input('Check out date (YYYY-MM-DD): ')
 	
@@ -33,10 +33,6 @@ def main():
 	with open('results.json', 'w') as f:
 		with redirect_stdout(f):
 			print(json.dumps(rJSON, indent=4))
-	
-	if 'search_metadata' in rJSON:
-		if 'json_endpoint' in rJSON['search_metadata']:
-			print(rJSON['search_metadata']['json_endpoint'])
 	
 if __name__ == "__main__":
 	main()
