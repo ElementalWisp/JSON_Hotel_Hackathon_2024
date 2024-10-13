@@ -1,6 +1,7 @@
 '''
 Hackathon 2024
 Developed by Anthony Jackson and Amy Phan
+---Proof of concept---
 '''
 
 import requests
